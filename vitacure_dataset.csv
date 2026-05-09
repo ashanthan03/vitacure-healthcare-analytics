@@ -1,0 +1,1201 @@
+Session_ID,Patient_ID,Date,Day_of_Week,Hour,Therapist,Therapist_Experience_Years,Condition,Session_Type,City,Payment_Mode,Session_Duration_mins,Cancelled,Cancellation_Reason,Realized_Revenue,Revenue_Leakage
+SES0420,PT0123,2024-07-01,Monday,19,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Bangalore,Insurance,0,1,Rescheduled,0,2640
+SES1118,PT0257,2024-07-01,Monday,14,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Bangalore,UPI,60,0,,1841,0
+SES0813,PT0252,2024-07-01,Monday,10,Dr. Arjun Nair,3,Arthritis,Home Visit,Pune,UPI,60,0,,1574,0
+SES0710,PT0153,2024-07-02,Tuesday,13,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hyderabad,Card,90,0,,1592,0
+SES0673,PT0299,2024-07-02,Tuesday,14,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Pune,Insurance,30,0,,1770,0
+SES0863,PT0169,2024-07-02,Tuesday,12,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Hyderabad,UPI,30,0,,1569,0
+SES0386,PT0274,2024-07-02,Tuesday,15,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1367,0
+SES0685,PT0010,2024-07-02,Tuesday,13,Dr. Priya Sharma,8,Sports Injury,Teleconsultation,Chennai,UPI,0,1,Doctor Unavailable,0,1587
+SES0963,PT0276,2024-07-02,Tuesday,18,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1238,0
+SES0521,PT0060,2024-07-02,Tuesday,12,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Insurance,0,1,Patient Emergency,0,1289
+SES1190,PT0009,2024-07-02,Tuesday,12,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,45,0,,1202,0
+SES0583,PT0077,2024-07-02,Tuesday,13,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Chennai,Cash,0,1,Doctor Unavailable,0,2303
+SES1192,PT0290,2024-07-03,Wednesday,10,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Pune,Insurance,60,0,,1143,0
+SES0063,PT0285,2024-07-03,Wednesday,14,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Bangalore,Cash,60,0,,1043,0
+SES0095,PT0141,2024-07-03,Wednesday,14,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Hyderabad,UPI,30,0,,1678,0
+SES0032,PT0288,2024-07-03,Wednesday,10,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Hyderabad,Cash,45,0,,1869,0
+SES1183,PT0010,2024-07-03,Wednesday,11,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hyderabad,UPI,45,0,,1237,0
+SES0434,PT0243,2024-07-03,Wednesday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Pune,Card,60,0,,2418,0
+SES0621,PT0391,2024-07-04,Thursday,14,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Chennai,UPI,45,0,,2404,0
+SES0320,PT0235,2024-07-04,Thursday,16,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Chennai,Insurance,60,0,,1306,0
+SES0662,PT0061,2024-07-04,Thursday,15,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1518,0
+SES0905,PT0040,2024-07-04,Thursday,14,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Pune,UPI,45,0,,1116,0
+SES0939,PT0017,2024-07-04,Thursday,9,Dr. Meena Iyer,11,Arthritis,Home Visit,Hyderabad,UPI,60,0,,1709,0
+SES1156,PT0195,2024-07-04,Thursday,15,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Hyderabad,Cash,0,1,No Show,0,1154
+SES0108,PT0068,2024-07-04,Thursday,12,Dr. Arjun Nair,3,Sports Injury,Home Visit,Mumbai,UPI,30,0,,2137,0
+SES0891,PT0074,2024-07-04,Thursday,16,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Bangalore,Insurance,0,1,Last-Minute Cancel,0,1210
+SES0734,PT0169,2024-07-05,Friday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Chennai,Cash,60,0,,1193,0
+SES0632,PT0277,2024-07-05,Friday,18,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Bangalore,UPI,0,1,Doctor Unavailable,0,1722
+SES0618,PT0040,2024-07-05,Friday,16,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Mumbai,Cash,45,0,,1090,0
+SES0796,PT0172,2024-07-05,Friday,14,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Mumbai,Insurance,60,0,,879,0
+SES0787,PT0088,2024-07-05,Friday,14,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Pune,Insurance,0,1,Last-Minute Cancel,0,1611
+SES0616,PT0068,2024-07-05,Friday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Mumbai,Card,60,0,,1459,0
+SES1027,PT0254,2024-07-05,Friday,17,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,45,0,,1363,0
+SES0064,PT0230,2024-07-05,Friday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hyderabad,Cash,45,0,,2596,0
+SES0692,PT0358,2024-07-06,Saturday,11,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hyderabad,Cash,60,0,,1888,0
+SES0840,PT0116,2024-07-06,Saturday,14,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Chennai,Cash,60,0,,1494,0
+SES0309,PT0151,2024-07-06,Saturday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,45,0,,2013,0
+SES1026,PT0059,2024-07-06,Saturday,13,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Hyderabad,Insurance,0,1,Rescheduled,0,1018
+SES0203,PT0002,2024-07-06,Saturday,19,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Pune,Insurance,60,0,,1357,0
+SES0449,PT0274,2024-07-06,Saturday,11,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,UPI,60,0,,1526,0
+SES1137,PT0392,2024-07-06,Saturday,16,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hyderabad,Cash,90,0,,1783,0
+SES0737,PT0114,2024-07-06,Saturday,16,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Mumbai,UPI,45,0,,1667,0
+SES0396,PT0324,2024-07-08,Monday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Chennai,Insurance,45,0,,1897,0
+SES0992,PT0237,2024-07-08,Monday,18,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hyderabad,Cash,0,1,Doctor Unavailable,0,1468
+SES0299,PT0303,2024-07-08,Monday,15,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Bangalore,UPI,0,1,Patient Emergency,0,1418
+SES0293,PT0255,2024-07-08,Monday,12,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hyderabad,Cash,0,1,Rescheduled,0,1132
+SES0988,PT0113,2024-07-09,Tuesday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Bangalore,Card,60,0,,2337,0
+SES0469,PT0001,2024-07-09,Tuesday,19,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Hyderabad,Cash,90,0,,1806,0
+SES0430,PT0277,2024-07-09,Tuesday,13,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hyderabad,Insurance,45,0,,1452,0
+SES0844,PT0386,2024-07-09,Tuesday,10,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Bangalore,UPI,0,1,Rescheduled,0,2432
+SES1095,PT0311,2024-07-09,Tuesday,15,Dr. Priya Sharma,8,Cervical Spondylosis,Teleconsultation,Mumbai,Cash,90,0,,882,0
+SES1195,PT0241,2024-07-09,Tuesday,16,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Doctor Unavailable,0,1000
+SES1179,PT0290,2024-07-09,Tuesday,19,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Mumbai,Cash,60,0,,965,0
+SES0838,PT0126,2024-07-09,Tuesday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Hyderabad,Card,60,0,,1057,0
+SES0776,PT0091,2024-07-09,Tuesday,17,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Chennai,UPI,45,0,,1630,0
+SES0738,PT0186,2024-07-10,Wednesday,12,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hyderabad,UPI,45,0,,2187,0
+SES0564,PT0072,2024-07-10,Wednesday,11,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Pune,Cash,60,0,,1630,0
+SES0565,PT0009,2024-07-10,Wednesday,12,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hyderabad,Card,60,0,,1880,0
+SES0238,PT0279,2024-07-10,Wednesday,16,Dr. Rohan Verma,2,Arthritis,In-Clinic,Hyderabad,Card,0,1,Patient Emergency,0,1324
+SES0764,PT0333,2024-07-10,Wednesday,11,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Chennai,Cash,45,0,,1585,0
+SES0036,PT0196,2024-07-10,Wednesday,17,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Mumbai,Insurance,60,0,,2339,0
+SES0798,PT0329,2024-07-10,Wednesday,11,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Pune,UPI,60,0,,1756,0
+SES0807,PT0037,2024-07-10,Wednesday,19,Dr. Meena Iyer,11,Arthritis,In-Clinic,Chennai,Cash,45,0,,1412,0
+SES0633,PT0236,2024-07-10,Wednesday,9,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hyderabad,Insurance,45,0,,1394,0
+SES0322,PT0243,2024-07-10,Wednesday,11,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Chennai,Cash,60,0,,1843,0
+SES0624,PT0370,2024-07-11,Thursday,10,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Chennai,Insurance,60,0,,1856,0
+SES1052,PT0074,2024-07-11,Thursday,17,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Pune,UPI,45,0,,1427,0
+SES0551,PT0272,2024-07-11,Thursday,10,Dr. Priya Sharma,8,Sports Injury,Teleconsultation,Bangalore,Cash,60,0,,1553,0
+SES0223,PT0271,2024-07-11,Thursday,11,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Mumbai,Insurance,60,0,,1142,0
+SES1017,PT0139,2024-07-11,Thursday,10,Dr. Rohan Verma,2,Knee Rehabilitation,Teleconsultation,Pune,Cash,45,0,,1229,0
+SES0381,PT0319,2024-07-11,Thursday,15,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Chennai,Card,90,0,,1192,0
+SES0845,PT0128,2024-07-12,Friday,18,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Mumbai,Card,60,0,,1479,0
+SES0761,PT0326,2024-07-12,Friday,16,Dr. Arjun Nair,3,Arthritis,Home Visit,Hyderabad,UPI,45,0,,1713,0
+SES0912,PT0290,2024-07-12,Friday,14,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,UPI,45,0,,1091,0
+SES0149,PT0069,2024-07-12,Friday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Bangalore,Insurance,60,0,,1851,0
+SES0697,PT0394,2024-07-12,Friday,16,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Bangalore,UPI,60,0,,1727,0
+SES0186,PT0123,2024-07-13,Saturday,15,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Chennai,Cash,30,0,,1850,0
+SES0435,PT0291,2024-07-13,Saturday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Chennai,UPI,60,0,,1277,0
+SES0217,PT0343,2024-07-13,Saturday,16,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,Insurance,45,0,,1282,0
+SES1124,PT0223,2024-07-13,Saturday,13,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1786
+SES0717,PT0216,2024-07-13,Saturday,18,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Chennai,UPI,0,1,Rescheduled,0,1415
+SES0406,PT0076,2024-07-15,Monday,11,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Chennai,Cash,60,0,,1405,0
+SES0464,PT0189,2024-07-15,Monday,17,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Hyderabad,Insurance,30,0,,1090,0
+SES0473,PT0041,2024-07-15,Monday,18,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hyderabad,Insurance,60,0,,1937,0
+SES1018,PT0011,2024-07-15,Monday,9,Dr. Rohan Verma,2,Sports Injury,Home Visit,Pune,Insurance,60,0,,1972,0
+SES0885,PT0151,2024-07-15,Monday,15,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Chennai,Cash,0,1,Rescheduled,0,1982
+SES0222,PT0244,2024-07-15,Monday,15,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,UPI,60,0,,1100,0
+SES0637,PT0180,2024-07-15,Monday,15,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,Card,0,1,Rescheduled,0,1528
+SES1174,PT0193,2024-07-16,Tuesday,10,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Chennai,Card,45,0,,1528,0
+SES0286,PT0291,2024-07-16,Tuesday,13,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Chennai,UPI,45,0,,1611,0
+SES0255,PT0106,2024-07-16,Tuesday,14,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,UPI,45,0,,1325,0
+SES1015,PT0172,2024-07-16,Tuesday,10,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Pune,Cash,90,0,,1256,0
+SES0747,PT0066,2024-07-16,Tuesday,18,Dr. Priya Sharma,8,Arthritis,In-Clinic,Mumbai,Insurance,60,0,,1248,0
+SES0880,PT0290,2024-07-16,Tuesday,16,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Mumbai,UPI,45,0,,2201,0
+SES0181,PT0377,2024-07-16,Tuesday,15,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,90,0,,2227,0
+SES1003,PT0263,2024-07-17,Wednesday,11,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,0,1,Patient Emergency,0,2129
+SES0109,PT0382,2024-07-17,Wednesday,13,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Mumbai,Cash,45,0,,1203,0
+SES0200,PT0359,2024-07-17,Wednesday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,0,1,Last-Minute Cancel,0,2414
+SES0842,PT0251,2024-07-17,Wednesday,14,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Insurance,60,0,,1251,0
+SES0696,PT0017,2024-07-17,Wednesday,12,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Chennai,UPI,0,1,No Show,0,1294
+SES0780,PT0229,2024-07-17,Wednesday,17,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Pune,UPI,45,0,,1519,0
+SES0008,PT0138,2024-07-17,Wednesday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hyderabad,Insurance,45,0,,2688,0
+SES0594,PT0150,2024-07-17,Wednesday,9,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1494,0
+SES1133,PT0114,2024-07-17,Wednesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Bangalore,UPI,60,0,,1124,0
+SES0974,PT0123,2024-07-17,Wednesday,14,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Bangalore,UPI,0,1,Patient Emergency,0,1560
+SES0150,PT0070,2024-07-17,Wednesday,15,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Pune,Cash,45,0,,1270,0
+SES0448,PT0212,2024-07-18,Thursday,11,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Bangalore,Insurance,60,0,,1849,0
+SES0307,PT0355,2024-07-18,Thursday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Pune,UPI,30,0,,1148,0
+SES1004,PT0202,2024-07-18,Thursday,18,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Bangalore,Insurance,60,0,,1365,0
+SES0129,PT0226,2024-07-18,Thursday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,Teleconsultation,Pune,Cash,60,0,,953,0
+SES0589,PT0361,2024-07-18,Thursday,14,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Chennai,UPI,45,0,,1113,0
+SES0630,PT0378,2024-07-18,Thursday,13,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Mumbai,UPI,0,1,No Show,0,2441
+SES0384,PT0332,2024-07-19,Friday,16,Dr. Arjun Nair,3,Arthritis,Home Visit,Hyderabad,UPI,0,1,Doctor Unavailable,0,1669
+SES0385,PT0286,2024-07-19,Friday,14,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Bangalore,UPI,45,0,,1428,0
+SES0559,PT0018,2024-07-19,Friday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Mumbai,Insurance,30,0,,1372,0
+SES0228,PT0366,2024-07-19,Friday,10,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Pune,Cash,60,0,,1355,0
+SES0768,PT0061,2024-07-19,Friday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Mumbai,Card,60,0,,1740,0
+SES0159,PT0063,2024-07-19,Friday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Pune,Card,30,0,,2077,0
+SES0785,PT0014,2024-07-19,Friday,15,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Hyderabad,Cash,45,0,,1389,0
+SES0099,PT0240,2024-07-20,Saturday,10,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2251,0
+SES0631,PT0390,2024-07-20,Saturday,15,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Mumbai,Cash,60,0,,1098,0
+SES0021,PT0128,2024-07-20,Saturday,13,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Hyderabad,UPI,30,0,,1616,0
+SES0124,PT0236,2024-07-20,Saturday,17,Dr. Priya Sharma,8,Arthritis,Teleconsultation,Mumbai,UPI,60,0,,1116,0
+SES0895,PT0183,2024-07-20,Saturday,14,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Bangalore,Card,0,1,Last-Minute Cancel,0,1619
+SES1021,PT0030,2024-07-20,Saturday,9,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Pune,UPI,45,0,,957,0
+SES0967,PT0356,2024-07-20,Saturday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Pune,Insurance,60,0,,2356,0
+SES0251,PT0086,2024-07-22,Monday,14,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Hyderabad,Insurance,30,0,,1511,0
+SES0539,PT0070,2024-07-22,Monday,10,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hyderabad,Cash,60,0,,1822,0
+SES0994,PT0236,2024-07-22,Monday,9,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Chennai,UPI,45,0,,1442,0
+SES0921,PT0192,2024-07-22,Monday,15,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Bangalore,Insurance,60,0,,1524,0
+SES0703,PT0036,2024-07-22,Monday,12,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Chennai,Insurance,0,1,No Show,0,1678
+SES0043,PT0338,2024-07-22,Monday,12,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Pune,Insurance,30,0,,2252,0
+SES0732,PT0036,2024-07-23,Tuesday,13,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Chennai,Insurance,0,1,No Show,0,1881
+SES0725,PT0131,2024-07-23,Tuesday,11,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Pune,UPI,30,0,,1554,0
+SES0341,PT0251,2024-07-23,Tuesday,10,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Pune,UPI,60,0,,2465,0
+SES0274,PT0126,2024-07-23,Tuesday,18,Dr. Meena Iyer,11,Arthritis,Home Visit,Mumbai,Insurance,0,1,Patient Emergency,0,1635
+SES0918,PT0281,2024-07-23,Tuesday,13,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Bangalore,UPI,45,0,,1681,0
+SES0876,PT0197,2024-07-23,Tuesday,17,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Chennai,UPI,45,0,,1153,0
+SES1143,PT0351,2024-07-24,Wednesday,18,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hyderabad,UPI,0,1,Patient Emergency,0,1507
+SES0258,PT0325,2024-07-24,Wednesday,13,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2182,0
+SES1105,PT0136,2024-07-24,Wednesday,13,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Hyderabad,UPI,60,0,,1164,0
+SES0142,PT0224,2024-07-24,Wednesday,18,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Pune,Card,45,0,,1386,0
+SES0090,PT0117,2024-07-24,Wednesday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Bangalore,Insurance,0,1,Last-Minute Cancel,0,1483
+SES1089,PT0111,2024-07-24,Wednesday,18,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Pune,UPI,60,0,,1486,0
+SES0114,PT0035,2024-07-24,Wednesday,17,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Hyderabad,Insurance,60,0,,827,0
+SES0915,PT0041,2024-07-24,Wednesday,18,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Hyderabad,UPI,60,0,,1132,0
+SES0263,PT0220,2024-07-24,Wednesday,15,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Pune,Cash,0,1,Doctor Unavailable,0,1282
+SES0997,PT0267,2024-07-25,Thursday,11,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Mumbai,UPI,0,1,Last-Minute Cancel,0,1600
+SES1006,PT0119,2024-07-25,Thursday,15,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Pune,Insurance,45,0,,1554,0
+SES1085,PT0170,2024-07-25,Thursday,9,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,45,0,,2049,0
+SES0979,PT0397,2024-07-25,Thursday,10,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Pune,UPI,60,0,,2128,0
+SES0532,PT0285,2024-07-25,Thursday,17,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Bangalore,Cash,30,0,,1746,0
+SES0256,PT0348,2024-07-25,Thursday,10,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Chennai,UPI,30,0,,1768,0
+SES1051,PT0144,2024-07-25,Thursday,11,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Chennai,Cash,60,0,,1001,0
+SES0837,PT0029,2024-07-25,Thursday,12,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Pune,Cash,45,0,,1198,0
+SES0791,PT0113,2024-07-25,Thursday,16,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Mumbai,Insurance,45,0,,1307,0
+SES0019,PT0098,2024-07-25,Thursday,10,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Hyderabad,Cash,60,0,,1576,0
+SES0363,PT0059,2024-07-25,Thursday,16,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hyderabad,UPI,60,0,,1840,0
+SES0746,PT0225,2024-07-25,Thursday,15,Dr. Meena Iyer,11,Post-Stroke Recovery,Teleconsultation,Chennai,Insurance,30,0,,1834,0
+SES0666,PT0038,2024-07-25,Thursday,14,Dr. Suresh Pillai,15,Arthritis,Home Visit,Bangalore,Insurance,0,1,No Show,0,1591
+SES0972,PT0190,2024-07-26,Friday,9,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,UPI,45,0,,1411,0
+SES0520,PT0074,2024-07-26,Friday,17,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Bangalore,Cash,45,0,,1967,0
+SES0462,PT0099,2024-07-26,Friday,9,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Hyderabad,UPI,60,0,,1173,0
+SES1158,PT0205,2024-07-26,Friday,18,Dr. Suresh Pillai,15,Post-Stroke Recovery,Home Visit,Mumbai,UPI,90,0,,2386,0
+SES0890,PT0309,2024-07-26,Friday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Mumbai,Cash,0,1,Last-Minute Cancel,0,1368
+SES0351,PT0039,2024-07-26,Friday,18,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Chennai,UPI,90,0,,1586,0
+SES0819,PT0170,2024-07-26,Friday,9,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1274,0
+SES0071,PT0379,2024-07-26,Friday,18,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Chennai,Cash,60,0,,1225,0
+SES0946,PT0201,2024-07-26,Friday,13,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,Insurance,0,1,Last-Minute Cancel,0,1496
+SES0893,PT0152,2024-07-27,Saturday,14,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Chennai,UPI,90,0,,1393,0
+SES0626,PT0345,2024-07-27,Saturday,13,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Hyderabad,Card,45,0,,1139,0
+SES0343,PT0067,2024-07-27,Saturday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,60,0,,2053,0
+SES0253,PT0218,2024-07-27,Saturday,16,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Pune,Cash,60,0,,1424,0
+SES0001,PT0072,2024-07-27,Saturday,15,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Pune,UPI,60,0,,1376,0
+SES1024,PT0258,2024-07-27,Saturday,9,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Chennai,UPI,60,0,,2290,0
+SES1080,PT0285,2024-07-27,Saturday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Chennai,Insurance,0,1,No Show,0,2313
+SES0058,PT0354,2024-07-27,Saturday,15,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Chennai,UPI,0,1,Patient Emergency,0,1167
+SES0759,PT0336,2024-07-29,Monday,12,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,45,0,,1487,0
+SES0121,PT0221,2024-07-29,Monday,12,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Bangalore,Cash,60,0,,1795,0
+SES0454,PT0342,2024-07-29,Monday,11,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Mumbai,UPI,60,0,,1716,0
+SES1056,PT0152,2024-07-29,Monday,15,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hyderabad,Cash,60,0,,1478,0
+SES0634,PT0250,2024-07-29,Monday,14,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1415,0
+SES0623,PT0117,2024-07-29,Monday,16,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Chennai,Cash,0,1,Doctor Unavailable,0,830
+SES0204,PT0097,2024-07-29,Monday,9,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,90,0,,2251,0
+SES0698,PT0235,2024-07-29,Monday,19,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Hyderabad,Card,60,0,,1839,0
+SES0902,PT0243,2024-07-29,Monday,9,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Chennai,UPI,60,0,,2140,0
+SES0709,PT0259,2024-07-29,Monday,16,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Hyderabad,Insurance,60,0,,1714,0
+SES0578,PT0118,2024-07-29,Monday,12,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,Insurance,0,1,Doctor Unavailable,0,1396
+SES0810,PT0007,2024-07-30,Tuesday,16,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Pune,Cash,45,0,,1517,0
+SES0568,PT0055,2024-07-30,Tuesday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Mumbai,Insurance,60,0,,1794,0
+SES0254,PT0225,2024-07-31,Wednesday,16,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Mumbai,Insurance,60,0,,1699,0
+SES1178,PT0072,2024-07-31,Wednesday,15,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Mumbai,Insurance,60,0,,1910,0
+SES1001,PT0235,2024-07-31,Wednesday,14,Dr. Rohan Verma,2,Arthritis,Home Visit,Bangalore,UPI,0,1,Rescheduled,0,1451
+SES0871,PT0118,2024-07-31,Wednesday,10,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Pune,Insurance,0,1,No Show,0,1520
+SES0569,PT0167,2024-07-31,Wednesday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hyderabad,Card,60,0,,1298,0
+SES0194,PT0342,2024-07-31,Wednesday,13,Dr. Priya Sharma,8,Sports Injury,Home Visit,Mumbai,Insurance,0,1,Patient Emergency,0,2278
+SES0276,PT0376,2024-07-31,Wednesday,16,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Bangalore,Insurance,0,1,Doctor Unavailable,0,1050
+SES0082,PT0237,2024-07-31,Wednesday,15,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,Insurance,0,1,Rescheduled,0,1503
+SES0574,PT0099,2024-07-31,Wednesday,19,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Pune,UPI,60,0,,1843,0
+SES0184,PT0148,2024-08-01,Thursday,14,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Bangalore,UPI,45,0,,1727,0
+SES0115,PT0344,2024-08-01,Thursday,13,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Bangalore,Cash,60,0,,1306,0
+SES0100,PT0275,2024-08-01,Thursday,13,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Bangalore,UPI,60,0,,1138,0
+SES0389,PT0073,2024-08-01,Thursday,9,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Chennai,UPI,60,0,,881,0
+SES0864,PT0211,2024-08-01,Thursday,18,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Pune,Cash,0,1,Rescheduled,0,1512
+SES0742,PT0141,2024-08-01,Thursday,15,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Hyderabad,UPI,60,0,,972,0
+SES1188,PT0303,2024-08-01,Thursday,10,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Hyderabad,UPI,60,0,,1732,0
+SES0267,PT0072,2024-08-01,Thursday,14,Dr. Rohan Verma,2,Fracture Recovery,Teleconsultation,Mumbai,UPI,45,0,,1530,0
+SES0654,PT0351,2024-08-01,Thursday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,30,0,,2175,0
+SES0392,PT0183,2024-08-02,Friday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Bangalore,Cash,30,0,,2393,0
+SES0015,PT0393,2024-08-02,Friday,10,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Chennai,Card,45,0,,1919,0
+SES0580,PT0172,2024-08-02,Friday,9,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Pune,Card,45,0,,2390,0
+SES0841,PT0153,2024-08-02,Friday,10,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Hyderabad,Card,0,1,Patient Emergency,0,1312
+SES1019,PT0357,2024-08-02,Friday,13,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hyderabad,UPI,60,0,,1113,0
+SES1198,PT0101,2024-08-02,Friday,11,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Chennai,Insurance,45,0,,1633,0
+SES0617,PT0114,2024-08-02,Friday,17,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,No Show,0,1058
+SES0156,PT0018,2024-08-02,Friday,10,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hyderabad,Insurance,45,0,,1655,0
+SES0899,PT0166,2024-08-02,Friday,11,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Mumbai,UPI,60,0,,1060,0
+SES0442,PT0227,2024-08-02,Friday,10,Dr. Priya Sharma,8,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1177,0
+SES0165,PT0141,2024-08-02,Friday,15,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Chennai,UPI,60,0,,1929,0
+SES0598,PT0295,2024-08-02,Friday,13,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Bangalore,UPI,60,0,,1317,0
+SES0330,PT0243,2024-08-03,Saturday,15,Dr. Rohan Verma,2,Lower Back Pain,Teleconsultation,Mumbai,Card,45,0,,902,0
+SES0377,PT0136,2024-08-03,Saturday,11,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Chennai,Cash,60,0,,1352,0
+SES0668,PT0240,2024-08-03,Saturday,10,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Bangalore,Cash,45,0,,1776,0
+SES0492,PT0078,2024-08-03,Saturday,11,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,Insurance,45,0,,1329,0
+SES0943,PT0293,2024-08-03,Saturday,19,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Mumbai,Insurance,45,0,,1478,0
+SES0370,PT0345,2024-08-03,Saturday,19,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,60,0,,2402,0
+SES0301,PT0104,2024-08-03,Saturday,12,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Chennai,UPI,0,1,Rescheduled,0,1094
+SES0546,PT0130,2024-08-03,Saturday,14,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Bangalore,Insurance,60,0,,1332,0
+SES1005,PT0133,2024-08-03,Saturday,15,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Chennai,Card,60,0,,1423,0
+SES0488,PT0337,2024-08-05,Monday,10,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Hyderabad,UPI,60,0,,1966,0
+SES0049,PT0042,2024-08-05,Monday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Chennai,UPI,45,0,,2047,0
+SES1045,PT0341,2024-08-05,Monday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Chennai,Cash,45,0,,2421,0
+SES0614,PT0007,2024-08-05,Monday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Pune,Cash,45,0,,1097,0
+SES0711,PT0345,2024-08-05,Monday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Chennai,UPI,45,0,,2089,0
+SES0144,PT0357,2024-08-05,Monday,16,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Hyderabad,UPI,90,0,,1432,0
+SES0364,PT0253,2024-08-05,Monday,17,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Pune,UPI,45,0,,1375,0
+SES1010,PT0018,2024-08-05,Monday,17,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Pune,Insurance,60,0,,1472,0
+SES0161,PT0103,2024-08-05,Monday,11,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Mumbai,Cash,60,0,,1653,0
+SES0719,PT0391,2024-08-05,Monday,13,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Pune,Insurance,0,1,Doctor Unavailable,0,1964
+SES0533,PT0047,2024-08-05,Monday,17,Dr. Priya Sharma,8,Arthritis,In-Clinic,Mumbai,Cash,30,0,,1335,0
+SES0991,PT0050,2024-08-05,Monday,14,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Hyderabad,Insurance,60,0,,1401,0
+SES0209,PT0116,2024-08-06,Tuesday,16,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,Cash,90,0,,1316,0
+SES0651,PT0112,2024-08-06,Tuesday,10,Dr. Meena Iyer,11,Arthritis,Home Visit,Hyderabad,Insurance,60,0,,1528,0
+SES0170,PT0127,2024-08-06,Tuesday,10,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,UPI,60,0,,1075,0
+SES0823,PT0365,2024-08-06,Tuesday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Pune,UPI,60,0,,1903,0
+SES0570,PT0141,2024-08-06,Tuesday,16,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,UPI,0,1,Rescheduled,0,1213
+SES0045,PT0125,2024-08-07,Wednesday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hyderabad,UPI,0,1,Last-Minute Cancel,0,2639
+SES0831,PT0146,2024-08-07,Wednesday,16,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Chennai,Cash,30,0,,2344,0
+SES0107,PT0169,2024-08-07,Wednesday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Pune,Insurance,90,0,,2102,0
+SES1114,PT0338,2024-08-07,Wednesday,11,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Rescheduled,0,1008
+SES0664,PT0210,2024-08-07,Wednesday,9,Dr. Arjun Nair,3,Sports Injury,Home Visit,Pune,UPI,60,0,,1989,0
+SES0372,PT0268,2024-08-07,Wednesday,9,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Mumbai,Cash,0,1,Rescheduled,0,1680
+SES0851,PT0399,2024-08-07,Wednesday,17,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Bangalore,UPI,0,1,Last-Minute Cancel,0,1379
+SES0289,PT0021,2024-08-07,Wednesday,10,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Chennai,Insurance,60,0,,1457,0
+SES0579,PT0224,2024-08-07,Wednesday,11,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,45,0,,2058,0
+SES0681,PT0154,2024-08-08,Thursday,19,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,Cash,45,0,,1440,0
+SES0670,PT0392,2024-08-08,Thursday,14,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hyderabad,UPI,60,0,,1130,0
+SES0645,PT0124,2024-08-08,Thursday,16,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Pune,UPI,60,0,,1283,0
+SES0523,PT0140,2024-08-08,Thursday,11,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,Insurance,60,0,,1965,0
+SES1050,PT0043,2024-08-08,Thursday,18,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Chennai,Cash,60,0,,1656,0
+SES0397,PT0335,2024-08-08,Thursday,12,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hyderabad,Card,60,0,,1898,0
+SES0593,PT0255,2024-08-08,Thursday,17,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Pune,UPI,45,0,,1538,0
+SES1073,PT0310,2024-08-08,Thursday,10,Dr. Priya Sharma,8,Arthritis,In-Clinic,Chennai,Insurance,60,0,,1272,0
+SES0930,PT0008,2024-08-08,Thursday,18,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Bangalore,Card,45,0,,1400,0
+SES1039,PT0149,2024-08-08,Thursday,18,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,UPI,0,1,Patient Emergency,0,1979
+SES0716,PT0268,2024-08-09,Friday,10,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,Cash,0,1,Rescheduled,0,1441
+SES0060,PT0363,2024-08-09,Friday,13,Dr. Priya Sharma,8,Arthritis,Teleconsultation,Hyderabad,Cash,45,0,,1202,0
+SES0949,PT0263,2024-08-09,Friday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Chennai,Cash,30,0,,2699,0
+SES0774,PT0072,2024-08-09,Friday,19,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Mumbai,UPI,60,0,,1825,0
+SES0868,PT0065,2024-08-09,Friday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Mumbai,Card,0,1,No Show,0,1184
+SES1155,PT0330,2024-08-09,Friday,14,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Bangalore,Card,45,0,,1306,0
+SES0237,PT0338,2024-08-09,Friday,15,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Bangalore,UPI,90,0,,1464,0
+SES0164,PT0266,2024-08-09,Friday,12,Dr. Arjun Nair,3,Arthritis,In-Clinic,Mumbai,Insurance,0,1,No Show,0,1260
+SES0715,PT0383,2024-08-10,Saturday,18,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Mumbai,Cash,60,0,,1963,0
+SES0908,PT0217,2024-08-10,Saturday,12,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Pune,Cash,0,1,Doctor Unavailable,0,1753
+SES0171,PT0098,2024-08-10,Saturday,13,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Bangalore,Card,45,0,,1700,0
+SES0783,PT0123,2024-08-10,Saturday,12,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Mumbai,UPI,90,0,,1629,0
+SES0012,PT0223,2024-08-10,Saturday,13,Dr. Priya Sharma,8,Sports Injury,Home Visit,Bangalore,UPI,45,0,,2258,0
+SES0942,PT0284,2024-08-10,Saturday,18,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Bangalore,Insurance,0,1,Last-Minute Cancel,0,1629
+SES0404,PT0096,2024-08-10,Saturday,12,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,UPI,45,0,,1385,0
+SES0453,PT0166,2024-08-10,Saturday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,0,1,Patient Emergency,0,2209
+SES0802,PT0160,2024-08-12,Monday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,45,0,,2058,0
+SES0074,PT0031,2024-08-12,Monday,16,Dr. Suresh Pillai,15,Shoulder Injury,Teleconsultation,Mumbai,Insurance,90,0,,1278,0
+SES0266,PT0333,2024-08-12,Monday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Chennai,Cash,45,0,,1436,0
+SES0928,PT0176,2024-08-12,Monday,11,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Hyderabad,UPI,60,0,,1793,0
+SES0249,PT0285,2024-08-12,Monday,13,Dr. Rohan Verma,2,Arthritis,In-Clinic,Pune,Cash,0,1,Rescheduled,0,1389
+SES0824,PT0240,2024-08-13,Tuesday,18,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1395,0
+SES0739,PT0253,2024-08-13,Tuesday,14,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,UPI,60,0,,1317,0
+SES0216,PT0236,2024-08-13,Tuesday,16,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Hyderabad,Cash,60,0,,1299,0
+SES0758,PT0369,2024-08-14,Wednesday,12,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,30,0,,2059,0
+SES1141,PT0391,2024-08-14,Wednesday,15,Dr. Arjun Nair,3,Arthritis,In-Clinic,Bangalore,Cash,0,1,Patient Emergency,0,1340
+SES0547,PT0190,2024-08-14,Wednesday,12,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Hyderabad,Insurance,60,0,,1196,0
+SES0247,PT0317,2024-08-14,Wednesday,17,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1247,0
+SES0860,PT0116,2024-08-14,Wednesday,10,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Chennai,Card,90,0,,1504,0
+SES0907,PT0385,2024-08-14,Wednesday,13,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Chennai,Cash,0,1,Doctor Unavailable,0,1450
+SES0607,PT0213,2024-08-14,Wednesday,14,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Bangalore,Cash,45,0,,1366,0
+SES0035,PT0013,2024-08-15,Thursday,16,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Hyderabad,Insurance,60,0,,1303,0
+SES0415,PT0248,2024-08-15,Thursday,12,Dr. Suresh Pillai,15,Arthritis,Home Visit,Chennai,Cash,45,0,,1521,0
+SES1164,PT0324,2024-08-15,Thursday,12,Dr. Priya Sharma,8,Sports Injury,Home Visit,Hyderabad,Cash,60,0,,2009,0
+SES0833,PT0359,2024-08-15,Thursday,17,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Pune,Insurance,60,0,,1056,0
+SES1097,PT0362,2024-08-15,Thursday,17,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1600
+SES0495,PT0034,2024-08-15,Thursday,18,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Pune,Card,60,0,,2684,0
+SES0305,PT0017,2024-08-16,Friday,14,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Chennai,Insurance,45,0,,1203,0
+SES0888,PT0254,2024-08-16,Friday,13,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Mumbai,Card,60,0,,1216,0
+SES0503,PT0148,2024-08-16,Friday,10,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Hyderabad,UPI,60,0,,1129,0
+SES0429,PT0141,2024-08-16,Friday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Chennai,Cash,45,0,,1338,0
+SES1102,PT0047,2024-08-16,Friday,16,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Mumbai,Cash,90,0,,1527,0
+SES0724,PT0175,2024-08-16,Friday,13,Dr. Meena Iyer,11,Arthritis,In-Clinic,Mumbai,Cash,45,0,,1253,0
+SES0751,PT0228,2024-08-17,Saturday,11,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Chennai,Cash,45,0,,1642,0
+SES0432,PT0188,2024-08-17,Saturday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Bangalore,Card,45,0,,2288,0
+SES0998,PT0248,2024-08-17,Saturday,17,Dr. Rohan Verma,2,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1312,0
+SES1055,PT0276,2024-08-19,Monday,9,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Chennai,Card,45,0,,1267,0
+SES0494,PT0071,2024-08-19,Monday,11,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Hyderabad,UPI,90,0,,1203,0
+SES0250,PT0070,2024-08-19,Monday,17,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Hyderabad,Card,60,0,,1001,0
+SES0554,PT0129,2024-08-19,Monday,9,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Bangalore,UPI,60,0,,1640,0
+SES0913,PT0257,2024-08-19,Monday,12,Dr. Meena Iyer,11,Lower Back Pain,Teleconsultation,Hyderabad,Insurance,45,0,,971,0
+SES0422,PT0311,2024-08-19,Monday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Pune,Insurance,45,0,,991,0
+SES0457,PT0225,2024-08-19,Monday,9,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Bangalore,Insurance,45,0,,940,0
+SES0951,PT0205,2024-08-19,Monday,11,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Chennai,Cash,60,0,,2031,0
+SES1042,PT0138,2024-08-19,Monday,17,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Bangalore,Cash,45,0,,1803,0
+SES0041,PT0066,2024-08-19,Monday,13,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Chennai,Insurance,90,0,,1346,0
+SES0376,PT0101,2024-08-19,Monday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Chennai,Cash,45,0,,1451,0
+SES0575,PT0142,2024-08-19,Monday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Pune,Cash,0,1,Doctor Unavailable,0,2199
+SES0757,PT0226,2024-08-19,Monday,15,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Bangalore,UPI,90,0,,1069,0
+SES0220,PT0124,2024-08-19,Monday,15,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Pune,UPI,0,1,Rescheduled,0,1335
+SES0958,PT0102,2024-08-20,Tuesday,9,Dr. Suresh Pillai,15,Arthritis,Home Visit,Bangalore,Cash,45,0,,1455,0
+SES0002,PT0288,2024-08-20,Tuesday,15,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Mumbai,Cash,60,0,,1476,0
+SES0291,PT0067,2024-08-20,Tuesday,17,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,Insurance,60,0,,1539,0
+SES0744,PT0128,2024-08-20,Tuesday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Mumbai,Cash,30,0,,2050,0
+SES1060,PT0345,2024-08-20,Tuesday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Pune,UPI,60,0,,2338,0
+SES0327,PT0361,2024-08-20,Tuesday,12,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Bangalore,Cash,60,0,,1201,0
+SES1046,PT0324,2024-08-20,Tuesday,18,Dr. Rohan Verma,2,Arthritis,In-Clinic,Hyderabad,UPI,45,0,,1174,0
+SES1157,PT0333,2024-08-20,Tuesday,12,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Mumbai,Insurance,90,0,,1516,0
+SES0700,PT0063,2024-08-21,Wednesday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Pune,UPI,45,0,,1581,0
+SES0409,PT0009,2024-08-21,Wednesday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Mumbai,UPI,60,0,,1555,0
+SES0313,PT0246,2024-08-21,Wednesday,10,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Chennai,Insurance,0,1,Rescheduled,0,1643
+SES0339,PT0071,2024-08-21,Wednesday,12,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Pune,Insurance,90,0,,1941,0
+SES1009,PT0116,2024-08-21,Wednesday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,60,0,,2213,0
+SES0427,PT0256,2024-08-21,Wednesday,11,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Pune,Insurance,45,0,,1144,0
+SES0952,PT0085,2024-08-22,Thursday,18,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Bangalore,Insurance,60,0,,1615,0
+SES0198,PT0060,2024-08-22,Thursday,15,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hyderabad,Insurance,60,0,,1512,0
+SES0975,PT0254,2024-08-22,Thursday,11,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,UPI,0,1,Rescheduled,0,1354
+SES0694,PT0319,2024-08-23,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Pune,Insurance,45,0,,1447,0
+SES0687,PT0357,2024-08-23,Friday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Mumbai,UPI,0,1,No Show,0,1382
+SES0590,PT0360,2024-08-23,Friday,16,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Chennai,Insurance,60,0,,1735,0
+SES0655,PT0153,2024-08-23,Friday,17,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Pune,Card,0,1,Doctor Unavailable,0,1847
+SES0509,PT0357,2024-08-23,Friday,14,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Pune,Cash,60,0,,1883,0
+SES0463,PT0007,2024-08-23,Friday,15,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Mumbai,UPI,60,0,,1920,0
+SES0006,PT0190,2024-08-23,Friday,15,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Pune,Insurance,30,0,,1866,0
+SES0042,PT0147,2024-08-23,Friday,13,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Bangalore,Insurance,60,0,,1856,0
+SES0903,PT0216,2024-08-23,Friday,17,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Chennai,Insurance,0,1,No Show,0,1662
+SES0792,PT0320,2024-08-23,Friday,18,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Pune,UPI,0,1,Doctor Unavailable,0,1663
+SES0236,PT0363,2024-08-23,Friday,13,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hyderabad,Cash,60,0,,1766,0
+SES1011,PT0255,2024-08-23,Friday,14,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Chennai,Insurance,60,0,,1067,0
+SES0917,PT0123,2024-08-23,Friday,19,Dr. Meena Iyer,11,Arthritis,In-Clinic,Hyderabad,Insurance,60,0,,1419,0
+SES0676,PT0067,2024-08-24,Saturday,17,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Chennai,Card,60,0,,861,0
+SES0245,PT0361,2024-08-24,Saturday,11,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,30,0,,2336,0
+SES0329,PT0293,2024-08-24,Saturday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Pune,UPI,45,0,,1553,0
+SES1061,PT0371,2024-08-24,Saturday,9,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Chennai,Insurance,0,1,Patient Emergency,0,1431
+SES0318,PT0086,2024-08-24,Saturday,16,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Pune,Insurance,0,1,Doctor Unavailable,0,1282
+SES1177,PT0383,2024-08-24,Saturday,11,Dr. Priya Sharma,8,Cervical Spondylosis,Teleconsultation,Hyderabad,UPI,45,0,,893,0
+SES0911,PT0034,2024-08-24,Saturday,14,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1154,0
+SES0817,PT0050,2024-08-24,Saturday,14,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Mumbai,Insurance,0,1,Patient Emergency,0,1506
+SES0926,PT0243,2024-08-24,Saturday,9,Dr. Rohan Verma,2,Lower Back Pain,Teleconsultation,Hyderabad,UPI,60,0,,1091,0
+SES0447,PT0194,2024-08-26,Monday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Hyderabad,Insurance,0,1,No Show,0,1304
+SES1152,PT0014,2024-08-26,Monday,17,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Bangalore,UPI,45,0,,1564,0
+SES0755,PT0254,2024-08-26,Monday,18,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Mumbai,Cash,60,0,,1143,0
+SES0096,PT0311,2024-08-26,Monday,15,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Pune,Card,60,0,,1968,0
+SES1067,PT0249,2024-08-26,Monday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,Card,60,0,,1250,0
+SES0298,PT0392,2024-08-26,Monday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Mumbai,UPI,90,0,,2444,0
+SES0641,PT0206,2024-08-27,Tuesday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Chennai,UPI,60,0,,2296,0
+SES0183,PT0153,2024-08-27,Tuesday,18,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Chennai,UPI,60,0,,1687,0
+SES0315,PT0135,2024-08-27,Tuesday,17,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1302,0
+SES0561,PT0277,2024-08-27,Tuesday,9,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Mumbai,Cash,60,0,,1702,0
+SES1076,PT0232,2024-08-27,Tuesday,14,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Mumbai,Insurance,0,1,No Show,0,1088
+SES0345,PT0010,2024-08-28,Wednesday,11,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Hyderabad,Card,30,0,,1131,0
+SES0416,PT0383,2024-08-28,Wednesday,13,Dr. Meena Iyer,11,Arthritis,Home Visit,Mumbai,Insurance,45,0,,1492,0
+SES0433,PT0352,2024-08-28,Wednesday,17,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Chennai,Cash,60,0,,1909,0
+SES0227,PT0231,2024-08-28,Wednesday,12,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Bangalore,UPI,60,0,,1085,0
+SES0005,PT0339,2024-08-28,Wednesday,16,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Mumbai,Insurance,60,0,,1178,0
+SES0179,PT0296,2024-08-28,Wednesday,15,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Chennai,Insurance,60,0,,1495,0
+SES0527,PT0241,2024-08-29,Thursday,18,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Hyderabad,UPI,45,0,,1727,0
+SES1078,PT0390,2024-08-29,Thursday,9,Dr. Arjun Nair,3,Arthritis,Home Visit,Chennai,Cash,60,0,,1572,0
+SES0465,PT0052,2024-08-29,Thursday,14,Dr. Meena Iyer,11,Knee Rehabilitation,Teleconsultation,Mumbai,Card,45,0,,1307,0
+SES0446,PT0306,2024-08-29,Thursday,16,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Bangalore,Cash,60,0,,1688,0
+SES0188,PT0334,2024-08-29,Thursday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Mumbai,Cash,90,0,,1957,0
+SES0287,PT0232,2024-08-29,Thursday,10,Dr. Meena Iyer,11,Arthritis,Home Visit,Bangalore,Insurance,60,0,,1690,0
+SES1054,PT0386,2024-08-29,Thursday,15,Dr. Arjun Nair,3,Sports Injury,Teleconsultation,Chennai,UPI,0,1,No Show,0,1617
+SES0771,PT0243,2024-08-29,Thursday,14,Dr. Arjun Nair,3,Arthritis,In-Clinic,Pune,Insurance,60,0,,1367,0
+SES1020,PT0122,2024-08-29,Thursday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Doctor Unavailable,0,1154
+SES0518,PT0255,2024-08-30,Friday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Mumbai,UPI,60,0,,1345,0
+SES0360,PT0207,2024-08-30,Friday,10,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Hyderabad,UPI,30,0,,1826,0
+SES0959,PT0197,2024-08-30,Friday,14,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Chennai,Cash,60,0,,1543,0
+SES0797,PT0159,2024-08-30,Friday,16,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,Cash,30,0,,1229,0
+SES0440,PT0065,2024-08-30,Friday,15,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,UPI,30,0,,1664,0
+SES0092,PT0318,2024-08-31,Saturday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Hyderabad,Cash,60,0,,1325,0
+SES1043,PT0355,2024-08-31,Saturday,13,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Mumbai,Insurance,30,0,,2160,0
+SES0857,PT0040,2024-08-31,Saturday,18,Dr. Meena Iyer,11,Arthritis,Home Visit,Mumbai,Insurance,60,0,,1458,0
+SES0855,PT0363,2024-09-02,Monday,15,Dr. Meena Iyer,11,Lower Back Pain,Teleconsultation,Bangalore,Cash,60,0,,992,0
+SES0820,PT0359,2024-09-02,Monday,12,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Bangalore,Insurance,60,0,,1548,0
+SES0745,PT0129,2024-09-02,Monday,10,Dr. Rohan Verma,2,Arthritis,Home Visit,Bangalore,Cash,0,1,Rescheduled,0,1706
+SES1159,PT0268,2024-09-02,Monday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Chennai,UPI,90,0,,1217,0
+SES1199,PT0054,2024-09-02,Monday,11,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Chennai,UPI,0,1,Rescheduled,0,1738
+SES0978,PT0001,2024-09-02,Monday,13,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Chennai,Card,0,1,Last-Minute Cancel,0,1216
+SES0850,PT0310,2024-09-02,Monday,10,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Mumbai,Cash,0,1,Last-Minute Cancel,0,933
+SES0368,PT0355,2024-09-02,Monday,12,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Chennai,UPI,60,0,,1204,0
+SES0870,PT0359,2024-09-02,Monday,15,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Bangalore,Insurance,60,0,,1393,0
+SES0782,PT0213,2024-09-02,Monday,11,Dr. Meena Iyer,11,Arthritis,Home Visit,Pune,Insurance,45,0,,1578,0
+SES1103,PT0371,2024-09-02,Monday,12,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1306,0
+SES0331,PT0236,2024-09-03,Tuesday,11,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Bangalore,UPI,60,0,,1807,0
+SES0878,PT0365,2024-09-03,Tuesday,17,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1497,0
+SES0731,PT0247,2024-09-03,Tuesday,17,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2038,0
+SES1013,PT0149,2024-09-03,Tuesday,13,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Pune,UPI,0,1,No Show,0,1640
+SES0148,PT0192,2024-09-03,Tuesday,16,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Hyderabad,Cash,45,0,,1096,0
+SES0643,PT0206,2024-09-03,Tuesday,15,Dr. Meena Iyer,11,Arthritis,Home Visit,Hyderabad,UPI,45,0,,1684,0
+SES0741,PT0315,2024-09-03,Tuesday,15,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Chennai,UPI,60,0,,2251,0
+SES0576,PT0223,2024-09-03,Tuesday,12,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Pune,UPI,30,0,,1262,0
+SES0487,PT0032,2024-09-04,Wednesday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,Teleconsultation,Bangalore,Card,30,0,,2126,0
+SES0646,PT0331,2024-09-04,Wednesday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Bangalore,UPI,45,0,,2369,0
+SES0677,PT0205,2024-09-04,Wednesday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Mumbai,Cash,30,0,,1610,0
+SES0483,PT0023,2024-09-04,Wednesday,11,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Card,60,0,,1269,0
+SES0765,PT0192,2024-09-04,Wednesday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Pune,UPI,0,1,Last-Minute Cancel,0,1726
+SES0740,PT0066,2024-09-05,Thursday,18,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Mumbai,UPI,60,0,,1507,0
+SES0482,PT0268,2024-09-05,Thursday,14,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Chennai,UPI,60,0,,2746,0
+SES0414,PT0130,2024-09-05,Thursday,17,Dr. Meena Iyer,11,Arthritis,In-Clinic,Chennai,UPI,45,0,,1265,0
+SES0319,PT0305,2024-09-05,Thursday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Pune,Insurance,30,0,,1380,0
+SES0400,PT0033,2024-09-06,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Pune,Insurance,0,1,No Show,0,1104
+SES1169,PT0118,2024-09-06,Friday,13,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Bangalore,Insurance,45,0,,1825,0
+SES0635,PT0201,2024-09-06,Friday,13,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Mumbai,UPI,45,0,,1637,0
+SES0314,PT0339,2024-09-06,Friday,10,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,60,0,,1405,0
+SES0471,PT0071,2024-09-06,Friday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Pune,Cash,60,0,,1325,0
+SES0173,PT0221,2024-09-06,Friday,16,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Mumbai,UPI,60,0,,1557,0
+SES0009,PT0074,2024-09-06,Friday,10,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Hyderabad,Card,60,0,,1612,0
+SES0684,PT0320,2024-09-06,Friday,12,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Hyderabad,Insurance,45,0,,1912,0
+SES0971,PT0232,2024-09-06,Friday,10,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Chennai,UPI,45,0,,1553,0
+SES0675,PT0322,2024-09-07,Saturday,14,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hyderabad,Insurance,0,1,Last-Minute Cancel,0,1959
+SES0865,PT0275,2024-09-07,Saturday,10,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Pune,Cash,45,0,,1175,0
+SES1160,PT0312,2024-09-07,Saturday,14,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Mumbai,Cash,0,1,No Show,0,2617
+SES1107,PT0283,2024-09-07,Saturday,10,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Chennai,Insurance,60,0,,1713,0
+SES0451,PT0029,2024-09-07,Saturday,16,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Pune,Insurance,45,0,,1193,0
+SES0873,PT0057,2024-09-07,Saturday,12,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Bangalore,Cash,45,0,,1251,0
+SES1079,PT0003,2024-09-07,Saturday,15,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hyderabad,Cash,60,0,,1271,0
+SES1100,PT0076,2024-09-07,Saturday,10,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Insurance,45,0,,1146,0
+SES0219,PT0272,2024-09-09,Monday,14,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Mumbai,Cash,60,0,,1201,0
+SES0950,PT0138,2024-09-09,Monday,13,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Pune,Insurance,60,0,,2133,0
+SES1101,PT0160,2024-09-09,Monday,14,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Mumbai,Insurance,0,1,Doctor Unavailable,0,1318
+SES1171,PT0393,2024-09-09,Monday,9,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Hyderabad,UPI,60,0,,1318,0
+SES0262,PT0082,2024-09-09,Monday,10,Dr. Rohan Verma,2,Post-Stroke Recovery,Teleconsultation,Bangalore,Card,0,1,Last-Minute Cancel,0,1949
+SES1104,PT0092,2024-09-10,Tuesday,10,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Bangalore,UPI,45,0,,1323,0
+SES0505,PT0281,2024-09-10,Tuesday,15,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Pune,Cash,30,0,,1704,0
+SES0620,PT0075,2024-09-10,Tuesday,18,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,60,0,,2051,0
+SES0235,PT0193,2024-09-10,Tuesday,17,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Bangalore,Insurance,60,0,,1292,0
+SES0395,PT0042,2024-09-10,Tuesday,17,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Chennai,UPI,45,0,,1814,0
+SES1098,PT0050,2024-09-10,Tuesday,19,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Bangalore,Insurance,30,0,,1227,0
+SES1139,PT0215,2024-09-10,Tuesday,12,Dr. Arjun Nair,3,Arthritis,In-Clinic,Pune,UPI,60,0,,1197,0
+SES0003,PT0175,2024-09-10,Tuesday,11,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Hyderabad,UPI,30,0,,1451,0
+SES0542,PT0385,2024-09-10,Tuesday,13,Dr. Priya Sharma,8,Fracture Recovery,Teleconsultation,Chennai,UPI,0,1,Patient Emergency,0,1285
+SES1031,PT0008,2024-09-10,Tuesday,16,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Pune,Card,45,0,,1743,0
+SES0037,PT0169,2024-09-10,Tuesday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,60,0,,2103,0
+SES1086,PT0141,2024-09-11,Wednesday,17,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Pune,UPI,45,0,,2237,0
+SES0140,PT0237,2024-09-11,Wednesday,16,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Hyderabad,Cash,45,0,,1377,0
+SES0935,PT0325,2024-09-11,Wednesday,15,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hyderabad,Insurance,30,0,,2270,0
+SES0030,PT0080,2024-09-11,Wednesday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Chennai,UPI,60,0,,1693,0
+SES0068,PT0007,2024-09-11,Wednesday,13,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Mumbai,Insurance,30,0,,1593,0
+SES0866,PT0057,2024-09-11,Wednesday,9,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,Insurance,90,0,,1363,0
+SES0437,PT0090,2024-09-11,Wednesday,12,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Chennai,Cash,60,0,,2194,0
+SES1053,PT0178,2024-09-11,Wednesday,11,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Mumbai,Cash,45,0,,1795,0
+SES0445,PT0177,2024-09-12,Thursday,13,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1525
+SES0130,PT0189,2024-09-12,Thursday,10,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Mumbai,Cash,60,0,,1607,0
+SES0874,PT0109,2024-09-12,Thursday,13,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Bangalore,UPI,45,0,,1288,0
+SES0498,PT0397,2024-09-12,Thursday,13,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Bangalore,Cash,30,0,,1227,0
+SES0663,PT0137,2024-09-12,Thursday,16,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Pune,Insurance,45,0,,1578,0
+SES0538,PT0079,2024-09-12,Thursday,19,Dr. Arjun Nair,3,Arthritis,Home Visit,Hyderabad,UPI,30,0,,1483,0
+SES0605,PT0227,2024-09-12,Thursday,11,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,60,0,,1619,0
+SES0206,PT0258,2024-09-13,Friday,11,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Pune,Insurance,60,0,,2538,0
+SES0439,PT0335,2024-09-13,Friday,15,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Bangalore,UPI,60,0,,1469,0
+SES0625,PT0284,2024-09-13,Friday,19,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Pune,Insurance,60,0,,2250,0
+SES0869,PT0246,2024-09-13,Friday,12,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1045
+SES0544,PT0151,2024-09-13,Friday,11,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Bangalore,UPI,45,0,,1631,0
+SES0160,PT0278,2024-09-13,Friday,17,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Chennai,Insurance,90,0,,1459,0
+SES0612,PT0025,2024-09-13,Friday,12,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Bangalore,Cash,45,0,,1648,0
+SES0689,PT0104,2024-09-14,Saturday,14,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Pune,Cash,30,0,,1456,0
+SES0954,PT0301,2024-09-14,Saturday,14,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Bangalore,Card,60,0,,1308,0
+SES0587,PT0017,2024-09-14,Saturday,13,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Chennai,Insurance,60,0,,1634,0
+SES1153,PT0345,2024-09-14,Saturday,11,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1296,0
+SES0373,PT0354,2024-09-14,Saturday,11,Dr. Arjun Nair,3,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2041,0
+SES0336,PT0093,2024-09-14,Saturday,10,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Chennai,Insurance,60,0,,1047,0
+SES0122,PT0105,2024-09-16,Monday,18,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,45,0,,2316,0
+SES1136,PT0190,2024-09-16,Monday,12,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Chennai,Insurance,30,0,,1138,0
+SES0606,PT0107,2024-09-16,Monday,13,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Pune,Cash,30,0,,1865,0
+SES1154,PT0299,2024-09-16,Monday,10,Dr. Rohan Verma,2,Sports Injury,Home Visit,Pune,UPI,0,1,Rescheduled,0,2193
+SES0608,PT0300,2024-09-16,Monday,13,Dr. Arjun Nair,3,Arthritis,In-Clinic,Bangalore,Cash,60,0,,1228,0
+SES0980,PT0007,2024-09-16,Monday,15,Dr. Meena Iyer,11,Sports Injury,Home Visit,Hyderabad,UPI,60,0,,2215,0
+SES0695,PT0253,2024-09-16,Monday,11,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hyderabad,UPI,45,0,,1870,0
+SES1186,PT0104,2024-09-16,Monday,11,Dr. Priya Sharma,8,Cervical Spondylosis,Teleconsultation,Pune,Card,90,0,,852,0
+SES0835,PT0028,2024-09-16,Monday,13,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,UPI,0,1,No Show,0,1285
+SES1166,PT0345,2024-09-16,Monday,10,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Hyderabad,UPI,60,0,,1550,0
+SES0387,PT0352,2024-09-16,Monday,14,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Bangalore,Cash,45,0,,1628,0
+SES0619,PT0034,2024-09-16,Monday,15,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Mumbai,Card,90,0,,1268,0
+SES1130,PT0134,2024-09-16,Monday,14,Dr. Priya Sharma,8,Arthritis,Teleconsultation,Chennai,Insurance,60,0,,1165,0
+SES0985,PT0341,2024-09-16,Monday,13,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Chennai,UPI,0,1,Rescheduled,0,1264
+SES0102,PT0020,2024-09-16,Monday,19,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,UPI,0,1,No Show,0,2263
+SES0986,PT0251,2024-09-17,Tuesday,9,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,30,0,,2347,0
+SES0892,PT0228,2024-09-17,Tuesday,12,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Chennai,Cash,60,0,,1367,0
+SES0337,PT0382,2024-09-17,Tuesday,13,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Pune,UPI,60,0,,1364,0
+SES0976,PT0245,2024-09-17,Tuesday,17,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Chennai,Cash,60,0,,1121,0
+SES0304,PT0194,2024-09-17,Tuesday,16,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Pune,Cash,30,0,,1029,0
+SES1025,PT0119,2024-09-17,Tuesday,16,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Chennai,UPI,60,0,,1462,0
+SES0862,PT0202,2024-09-17,Tuesday,18,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Chennai,UPI,60,0,,1605,0
+SES0014,PT0186,2024-09-17,Tuesday,11,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Mumbai,Cash,30,0,,1216,0
+SES0033,PT0022,2024-09-17,Tuesday,12,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Pune,UPI,30,0,,1204,0
+SES0178,PT0299,2024-09-17,Tuesday,16,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hyderabad,Insurance,30,0,,1245,0
+SES0479,PT0395,2024-09-17,Tuesday,11,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,60,0,,2341,0
+SES0300,PT0278,2024-09-18,Wednesday,11,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Hyderabad,Insurance,0,1,Last-Minute Cancel,0,2366
+SES0281,PT0397,2024-09-18,Wednesday,12,Dr. Priya Sharma,8,Arthritis,In-Clinic,Bangalore,Cash,45,0,,1172,0
+SES1091,PT0182,2024-09-18,Wednesday,17,Dr. Arjun Nair,3,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1190,0
+SES0057,PT0399,2024-09-18,Wednesday,10,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Mumbai,Card,0,1,Rescheduled,0,1726
+SES0996,PT0155,2024-09-18,Wednesday,15,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Pune,Insurance,60,0,,1698,0
+SES0126,PT0203,2024-09-18,Wednesday,16,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,30,0,,2323,0
+SES0016,PT0366,2024-09-18,Wednesday,13,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Pune,Card,60,0,,1072,0
+SES0743,PT0230,2024-09-19,Thursday,9,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Chennai,Card,60,0,,2016,0
+SES0793,PT0335,2024-09-19,Thursday,9,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,0,1,No Show,0,1370
+SES0265,PT0053,2024-09-19,Thursday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Mumbai,Insurance,60,0,,2148,0
+SES0705,PT0370,2024-09-19,Thursday,18,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Bangalore,Insurance,0,1,Rescheduled,0,1188
+SES0214,PT0190,2024-09-19,Thursday,13,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Pune,UPI,45,0,,1794,0
+SES0040,PT0320,2024-09-19,Thursday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,0,1,Rescheduled,0,2203
+SES0027,PT0235,2024-09-19,Thursday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Bangalore,UPI,60,0,,992,0
+SES0234,PT0246,2024-09-19,Thursday,11,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Pune,Cash,60,0,,1349,0
+SES0496,PT0312,2024-09-19,Thursday,13,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Mumbai,Cash,60,0,,1420,0
+SES0089,PT0195,2024-09-20,Friday,15,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Chennai,Insurance,60,0,,1297,0
+SES0086,PT0023,2024-09-20,Friday,16,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,45,0,,2337,0
+SES1121,PT0083,2024-09-20,Friday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Mumbai,Cash,30,0,,1867,0
+SES1084,PT0006,2024-09-20,Friday,13,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Hyderabad,Insurance,90,0,,1279,0
+SES0941,PT0207,2024-09-20,Friday,14,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Pune,Cash,60,0,,1196,0
+SES0853,PT0088,2024-09-20,Friday,18,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,Cash,60,0,,1744,0
+SES0726,PT0051,2024-09-20,Friday,10,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Hyderabad,UPI,90,0,,1332,0
+SES0491,PT0095,2024-09-20,Friday,17,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,Cash,0,1,Last-Minute Cancel,0,1158
+SES0613,PT0279,2024-09-21,Saturday,17,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Pune,Cash,45,0,,1763,0
+SES0342,PT0008,2024-09-21,Saturday,16,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,Cash,30,0,,1175,0
+SES0257,PT0365,2024-09-21,Saturday,17,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Pune,UPI,60,0,,1760,0
+SES0260,PT0138,2024-09-21,Saturday,17,Dr. Rohan Verma,2,Post-Stroke Recovery,Teleconsultation,Hyderabad,Insurance,0,1,Patient Emergency,0,1852
+SES1008,PT0090,2024-09-21,Saturday,10,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Mumbai,UPI,60,0,,1390,0
+SES0468,PT0372,2024-09-21,Saturday,14,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Hyderabad,Cash,60,0,,1320,0
+SES0460,PT0123,2024-09-21,Saturday,15,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Chennai,UPI,45,0,,1512,0
+SES0061,PT0138,2024-09-21,Saturday,17,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Chennai,Insurance,60,0,,1468,0
+SES0111,PT0042,2024-09-21,Saturday,14,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,Card,0,1,Rescheduled,0,1537
+SES1146,PT0310,2024-09-23,Monday,17,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Mumbai,Cash,60,0,,1139,0
+SES0600,PT0260,2024-09-23,Monday,15,Dr. Arjun Nair,3,Fracture Recovery,Teleconsultation,Chennai,UPI,0,1,Rescheduled,0,1531
+SES0311,PT0052,2024-09-23,Monday,11,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Mumbai,Cash,60,0,,1767,0
+SES0087,PT0303,2024-09-23,Monday,17,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1383,0
+SES0516,PT0351,2024-09-23,Monday,16,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Chennai,UPI,90,0,,1068,0
+SES0085,PT0177,2024-09-24,Tuesday,14,Dr. Kavitha Reddy,6,Fracture Recovery,Teleconsultation,Hyderabad,Cash,45,0,,1387,0
+SES0233,PT0203,2024-09-24,Tuesday,17,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,0,1,Rescheduled,0,2174
+SES0106,PT0026,2024-09-24,Tuesday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Mumbai,Cash,0,1,Patient Emergency,0,2353
+SES0134,PT0077,2024-09-24,Tuesday,10,Dr. Priya Sharma,8,Arthritis,In-Clinic,Chennai,Insurance,45,0,,1408,0
+SES0340,PT0250,2024-09-24,Tuesday,15,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Mumbai,UPI,0,1,Last-Minute Cancel,0,811
+SES0766,PT0319,2024-09-25,Wednesday,13,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Chennai,UPI,60,0,,1080,0
+SES0773,PT0338,2024-09-25,Wednesday,11,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Hyderabad,Insurance,60,0,,1471,0
+SES0133,PT0210,2024-09-25,Wednesday,15,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hyderabad,Card,0,1,Rescheduled,0,1278
+SES0177,PT0304,2024-09-25,Wednesday,13,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Bangalore,Cash,60,0,,1397,0
+SES1119,PT0048,2024-09-25,Wednesday,13,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Hyderabad,UPI,0,1,No Show,0,1531
+SES0424,PT0388,2024-09-25,Wednesday,19,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Pune,Cash,60,0,,1389,0
+SES0054,PT0233,2024-09-25,Wednesday,16,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1331
+SES0680,PT0263,2024-09-26,Thursday,19,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1441,0
+SES0335,PT0299,2024-09-26,Thursday,16,Dr. Meena Iyer,11,Sports Injury,Teleconsultation,Mumbai,Cash,60,0,,1611,0
+SES0481,PT0008,2024-09-26,Thursday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Bangalore,Card,0,1,Doctor Unavailable,0,1988
+SES0264,PT0357,2024-09-26,Thursday,17,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,45,0,,2166,0
+SES0708,PT0267,2024-09-26,Thursday,16,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Bangalore,Cash,0,1,Last-Minute Cancel,0,1941
+SES0733,PT0350,2024-09-26,Thursday,15,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,Cash,45,0,,1354,0
+SES0450,PT0112,2024-09-26,Thursday,13,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Hyderabad,UPI,45,0,,1200,0
+SES1134,PT0007,2024-09-26,Thursday,12,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Chennai,Cash,0,1,Doctor Unavailable,0,1023
+SES0296,PT0249,2024-09-27,Friday,18,Dr. Priya Sharma,8,Arthritis,Home Visit,Chennai,UPI,45,0,,1564,0
+SES0984,PT0291,2024-09-27,Friday,12,Dr. Kavitha Reddy,6,Cervical Spondylosis,Home Visit,Hyderabad,UPI,60,0,,1400,0
+SES0169,PT0376,2024-09-27,Friday,19,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,0,1,Rescheduled,0,2207
+SES0283,PT0278,2024-09-27,Friday,15,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Pune,Cash,45,0,,1263,0
+SES0306,PT0122,2024-09-27,Friday,19,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Mumbai,UPI,0,1,Last-Minute Cancel,0,1384
+SES0163,PT0239,2024-09-27,Friday,10,Dr. Priya Sharma,8,Shoulder Injury,Teleconsultation,Hyderabad,Cash,60,0,,1212,0
+SES0226,PT0257,2024-09-27,Friday,9,Dr. Meena Iyer,11,Arthritis,Home Visit,Mumbai,UPI,45,0,,1708,0
+SES1028,PT0278,2024-09-28,Saturday,18,Dr. Arjun Nair,3,Arthritis,In-Clinic,Mumbai,Insurance,45,0,,1366,0
+SES0932,PT0194,2024-09-28,Saturday,11,Dr. Arjun Nair,3,Arthritis,Home Visit,Chennai,Insurance,0,1,Patient Emergency,0,1746
+SES0308,PT0194,2024-09-28,Saturday,14,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1164
+SES0242,PT0248,2024-09-28,Saturday,13,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Chennai,Insurance,45,0,,1871,0
+SES0028,PT0068,2024-09-28,Saturday,17,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Bangalore,UPI,45,0,,1461,0
+SES0118,PT0174,2024-09-28,Saturday,9,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Bangalore,UPI,60,0,,1824,0
+SES0672,PT0064,2024-09-28,Saturday,10,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Pune,UPI,45,0,,1498,0
+SES0636,PT0188,2024-09-28,Saturday,17,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Pune,Cash,60,0,,1158,0
+SES0353,PT0169,2024-09-30,Monday,18,Dr. Priya Sharma,8,Lower Back Pain,Teleconsultation,Pune,Insurance,60,0,,954,0
+SES0213,PT0333,2024-09-30,Monday,12,Dr. Arjun Nair,3,Cervical Spondylosis,Home Visit,Chennai,UPI,0,1,Doctor Unavailable,0,1390
+SES0091,PT0151,2024-09-30,Monday,12,Dr. Suresh Pillai,15,Sports Injury,Teleconsultation,Mumbai,UPI,60,0,,1610,0
+SES0736,PT0308,2024-09-30,Monday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hyderabad,UPI,90,0,,2019,0
+SES0955,PT0096,2024-09-30,Monday,11,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hyderabad,Insurance,0,1,Rescheduled,0,1169
+SES0602,PT0229,2024-09-30,Monday,10,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Pune,Cash,0,1,No Show,0,1830
+SES0456,PT0031,2024-09-30,Monday,15,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Mumbai,Cash,45,0,,1693,0
+SES0610,PT0307,2024-10-01,Tuesday,14,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1288,0
+SES0699,PT0106,2024-10-01,Tuesday,11,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1186,0
+SES0270,PT0007,2024-10-01,Tuesday,18,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Chennai,Cash,0,1,Patient Emergency,0,2165
+SES0669,PT0383,2024-10-01,Tuesday,18,Dr. Meena Iyer,11,Lower Back Pain,Teleconsultation,Bangalore,Cash,60,0,,1075,0
+SES0136,PT0010,2024-10-01,Tuesday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Bangalore,Cash,60,0,,1743,0
+SES1032,PT0141,2024-10-01,Tuesday,12,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Chennai,UPI,60,0,,1855,0
+SES0394,PT0142,2024-10-01,Tuesday,10,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hyderabad,Insurance,60,0,,1291,0
+SES0352,PT0149,2024-10-01,Tuesday,16,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,Insurance,30,0,,1676,0
+SES0803,PT0041,2024-10-01,Tuesday,13,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Hyderabad,UPI,60,0,,1384,0
+SES0920,PT0021,2024-10-02,Wednesday,17,Dr. Suresh Pillai,15,Shoulder Injury,Teleconsultation,Hyderabad,Card,90,0,,1286,0
+SES1099,PT0370,2024-10-02,Wednesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,Teleconsultation,Chennai,UPI,60,0,,883,0
+SES0969,PT0113,2024-10-02,Wednesday,13,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Pune,UPI,45,0,,1741,0
+SES0175,PT0286,2024-10-02,Wednesday,16,Dr. Priya Sharma,8,Shoulder Injury,Teleconsultation,Bangalore,UPI,60,0,,1202,0
+SES0627,PT0034,2024-10-02,Wednesday,19,Dr. Rohan Verma,2,Arthritis,Home Visit,Pune,Card,0,1,Patient Emergency,0,1710
+SES0362,PT0175,2024-10-02,Wednesday,17,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Hyderabad,Cash,45,0,,1710,0
+SES0541,PT0296,2024-10-02,Wednesday,9,Dr. Rohan Verma,2,Post-Stroke Recovery,Home Visit,Chennai,UPI,0,1,Doctor Unavailable,0,2602
+SES0818,PT0173,2024-10-03,Thursday,15,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hyderabad,UPI,45,0,,1541,0
+SES0897,PT0339,2024-10-03,Thursday,18,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Hyderabad,UPI,30,0,,938,0
+SES1144,PT0235,2024-10-03,Thursday,15,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Pune,Insurance,60,0,,1293,0
+SES0784,PT0063,2024-10-03,Thursday,10,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Chennai,Cash,45,0,,2107,0
+SES0849,PT0366,2024-10-04,Friday,14,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Pune,Insurance,45,0,,2205,0
+SES0790,PT0128,2024-10-04,Friday,18,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Pune,UPI,30,0,,1084,0
+SES0806,PT0374,2024-10-04,Friday,13,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Chennai,UPI,90,0,,1306,0
+SES0674,PT0202,2024-10-04,Friday,14,Dr. Rohan Verma,2,Knee Rehabilitation,Teleconsultation,Mumbai,UPI,45,0,,1388,0
+SES1083,PT0366,2024-10-04,Friday,14,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Chennai,Insurance,0,1,Doctor Unavailable,0,1319
+SES0382,PT0395,2024-10-04,Friday,14,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Chennai,UPI,45,0,,1795,0
+SES0938,PT0004,2024-10-04,Friday,16,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hyderabad,Insurance,60,0,,1526,0
+SES1070,PT0149,2024-10-04,Friday,12,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Pune,UPI,0,1,No Show,0,1850
+SES0143,PT0198,2024-10-04,Friday,11,Dr. Priya Sharma,8,Arthritis,In-Clinic,Pune,Cash,60,0,,1196,0
+SES0302,PT0038,2024-10-04,Friday,15,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Bangalore,Insurance,45,0,,1729,0
+SES0248,PT0094,2024-10-04,Friday,15,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Mumbai,UPI,45,0,,1377,0
+SES0555,PT0067,2024-10-05,Saturday,15,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Chennai,UPI,90,0,,1824,0
+SES0639,PT0163,2024-10-05,Saturday,14,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Mumbai,Cash,0,1,Last-Minute Cancel,0,1911
+SES0402,PT0335,2024-10-05,Saturday,12,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Hyderabad,Cash,60,0,,1921,0
+SES0660,PT0202,2024-10-05,Saturday,18,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Pune,Cash,90,0,,1701,0
+SES0805,PT0146,2024-10-05,Saturday,14,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Hyderabad,Cash,60,0,,1353,0
+SES1187,PT0064,2024-10-05,Saturday,9,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Hyderabad,Insurance,45,0,,1285,0
+SES0756,PT0379,2024-10-05,Saturday,11,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,0,1,Last-Minute Cancel,0,2140
+SES0944,PT0372,2024-10-05,Saturday,16,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Pune,Cash,90,0,,2101,0
+SES0094,PT0102,2024-10-07,Monday,17,Dr. Meena Iyer,11,Arthritis,Home Visit,Bangalore,Cash,0,1,Doctor Unavailable,0,1623
+SES0525,PT0055,2024-10-07,Monday,9,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,UPI,60,0,,1497,0
+SES0354,PT0140,2024-10-07,Monday,15,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,60,0,,1083,0
+SES0900,PT0335,2024-10-07,Monday,13,Dr. Suresh Pillai,15,Arthritis,Home Visit,Pune,Cash,60,0,,1611,0
+SES0557,PT0196,2024-10-08,Tuesday,12,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,UPI,0,1,Rescheduled,0,1684
+SES0417,PT0083,2024-10-08,Tuesday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Mumbai,Cash,0,1,Last-Minute Cancel,0,1491
+SES0052,PT0015,2024-10-08,Tuesday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,45,0,,2158,0
+SES0679,PT0229,2024-10-08,Tuesday,13,Dr. Meena Iyer,11,Knee Rehabilitation,Home Visit,Hyderabad,Cash,60,0,,1772,0
+SES0051,PT0386,2024-10-08,Tuesday,17,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Bangalore,Card,60,0,,1279,0
+SES0881,PT0288,2024-10-08,Tuesday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,45,0,,1405,0
+SES0158,PT0256,2024-10-08,Tuesday,18,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Pune,UPI,60,0,,1899,0
+SES0560,PT0341,2024-10-08,Tuesday,12,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Mumbai,UPI,60,0,,1838,0
+SES0720,PT0210,2024-10-08,Tuesday,11,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Chennai,Cash,90,0,,1109,0
+SES0735,PT0391,2024-10-09,Wednesday,14,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hyderabad,Cash,30,0,,1545,0
+SES1117,PT0306,2024-10-09,Wednesday,14,Dr. Arjun Nair,3,Arthritis,Home Visit,Hyderabad,Insurance,0,1,Patient Emergency,0,1449
+SES0273,PT0275,2024-10-09,Wednesday,14,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Pune,Card,60,0,,1854,0
+SES0312,PT0026,2024-10-09,Wednesday,14,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Mumbai,UPI,45,0,,1955,0
+SES0889,PT0091,2024-10-09,Wednesday,15,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Pune,UPI,60,0,,1579,0
+SES0388,PT0383,2024-10-09,Wednesday,16,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Pune,Cash,60,0,,1151,0
+SES0834,PT0179,2024-10-09,Wednesday,13,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hyderabad,UPI,60,0,,1148,0
+SES0475,PT0345,2024-10-09,Wednesday,19,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,UPI,30,0,,1117,0
+SES0486,PT0171,2024-10-09,Wednesday,16,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Bangalore,Card,0,1,Rescheduled,0,1165
+SES0105,PT0032,2024-10-10,Thursday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Bangalore,Card,60,0,,1199,0
+SES1138,PT0050,2024-10-10,Thursday,11,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Mumbai,Card,45,0,,1420,0
+SES0667,PT0155,2024-10-10,Thursday,15,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Hyderabad,Cash,30,0,,1294,0
+SES1126,PT0273,2024-10-10,Thursday,11,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Mumbai,UPI,0,1,Last-Minute Cancel,0,1110
+SES0317,PT0041,2024-10-10,Thursday,18,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Bangalore,UPI,90,0,,1601,0
+SES1168,PT0099,2024-10-10,Thursday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Pune,UPI,45,0,,2248,0
+SES0830,PT0055,2024-10-10,Thursday,9,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Pune,Cash,60,0,,1348,0
+SES1120,PT0092,2024-10-10,Thursday,15,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Hyderabad,Card,30,0,,1589,0
+SES0441,PT0281,2024-10-10,Thursday,14,Dr. Arjun Nair,3,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1197,0
+SES0924,PT0103,2024-10-11,Friday,12,Dr. Arjun Nair,3,Knee Rehabilitation,Teleconsultation,Hyderabad,Card,60,0,,1429,0
+SES1014,PT0160,2024-10-11,Friday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Chennai,Card,60,0,,2157,0
+SES1129,PT0217,2024-10-11,Friday,9,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Bangalore,Cash,60,0,,1427,0
+SES0658,PT0002,2024-10-11,Friday,11,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Pune,Insurance,45,0,,1726,0
+SES1111,PT0348,2024-10-11,Friday,12,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hyderabad,Cash,60,0,,2259,0
+SES0748,PT0196,2024-10-11,Friday,10,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Bangalore,Cash,60,0,,1704,0
+SES1072,PT0336,2024-10-11,Friday,10,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,30,0,,2099,0
+SES0537,PT0365,2024-10-12,Saturday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,60,0,,2271,0
+SES1135,PT0131,2024-10-12,Saturday,9,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Hyderabad,Insurance,60,0,,1750,0
+SES0586,PT0361,2024-10-12,Saturday,11,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Pune,Cash,60,0,,1025,0
+SES0020,PT0032,2024-10-12,Saturday,16,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Mumbai,Card,45,0,,1383,0
+SES0361,PT0053,2024-10-12,Saturday,13,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Mumbai,Card,30,0,,1440,0
+SES0927,PT0141,2024-10-12,Saturday,10,Dr. Meena Iyer,11,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2080,0
+SES0079,PT0060,2024-10-12,Saturday,17,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Bangalore,UPI,60,0,,1080,0
+SES0244,PT0119,2024-10-12,Saturday,15,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Hyderabad,Cash,45,0,,1444,0
+SES0390,PT0109,2024-10-14,Monday,18,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Bangalore,Insurance,45,0,,1671,0
+SES0078,PT0169,2024-10-14,Monday,15,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1169
+SES0530,PT0303,2024-10-14,Monday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Hyderabad,Cash,60,0,,1677,0
+SES0207,PT0114,2024-10-14,Monday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Chennai,Insurance,0,1,Patient Emergency,0,1184
+SES0906,PT0241,2024-10-14,Monday,15,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Bangalore,Insurance,30,0,,1749,0
+SES0981,PT0076,2024-10-14,Monday,17,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Mumbai,Insurance,60,0,,1485,0
+SES1175,PT0167,2024-10-14,Monday,17,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Mumbai,Insurance,60,0,,1527,0
+SES0515,PT0237,2024-10-14,Monday,18,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Bangalore,Cash,0,1,Patient Emergency,0,1344
+SES0355,PT0054,2024-10-15,Tuesday,18,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,Insurance,60,0,,1521,0
+SES0718,PT0023,2024-10-15,Tuesday,13,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Mumbai,Cash,45,0,,1585,0
+SES0799,PT0267,2024-10-15,Tuesday,15,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1267,0
+SES0572,PT0146,2024-10-15,Tuesday,15,Dr. Priya Sharma,8,Shoulder Injury,Teleconsultation,Chennai,Insurance,45,0,,1194,0
+SES0241,PT0152,2024-10-15,Tuesday,18,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Mumbai,UPI,60,0,,1493,0
+SES0512,PT0316,2024-10-15,Tuesday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Pune,UPI,60,0,,1923,0
+SES1193,PT0317,2024-10-15,Tuesday,17,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Bangalore,Insurance,60,0,,1870,0
+SES0714,PT0375,2024-10-15,Tuesday,17,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Hyderabad,Insurance,60,0,,1018,0
+SES0411,PT0268,2024-10-16,Wednesday,12,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Hyderabad,Insurance,0,1,Patient Emergency,0,986
+SES0050,PT0106,2024-10-16,Wednesday,13,Dr. Rohan Verma,2,Arthritis,In-Clinic,Mumbai,Cash,30,0,,1416,0
+SES1196,PT0048,2024-10-16,Wednesday,19,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1390
+SES0867,PT0061,2024-10-16,Wednesday,13,Dr. Arjun Nair,3,Post-Stroke Recovery,Teleconsultation,Bangalore,Card,45,0,,2073,0
+SES1041,PT0376,2024-10-16,Wednesday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Chennai,Card,0,1,Patient Emergency,0,2331
+SES1109,PT0082,2024-10-16,Wednesday,13,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Mumbai,Cash,45,0,,1513,0
+SES1007,PT0387,2024-10-16,Wednesday,18,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,0,1,Rescheduled,0,2030
+SES0145,PT0271,2024-10-17,Thursday,10,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Chennai,UPI,30,0,,1728,0
+SES1030,PT0274,2024-10-17,Thursday,14,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Bangalore,Card,45,0,,1104,0
+SES0859,PT0366,2024-10-17,Thursday,15,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Mumbai,Cash,60,0,,1423,0
+SES0153,PT0373,2024-10-17,Thursday,10,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Mumbai,Cash,60,0,,958,0
+SES0652,PT0163,2024-10-17,Thursday,13,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1147,0
+SES0688,PT0243,2024-10-17,Thursday,9,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Pune,Insurance,60,0,,2047,0
+SES1081,PT0020,2024-10-17,Thursday,13,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Mumbai,Cash,45,0,,1507,0
+SES1123,PT0092,2024-10-17,Thursday,14,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Mumbai,Card,0,1,Last-Minute Cancel,0,1302
+SES0910,PT0332,2024-10-17,Thursday,11,Dr. Suresh Pillai,15,Arthritis,Home Visit,Bangalore,UPI,0,1,Last-Minute Cancel,0,1556
+SES0753,PT0028,2024-10-17,Thursday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Chennai,Cash,45,0,,1439,0
+SES0730,PT0276,2024-10-17,Thursday,19,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Pune,UPI,60,0,,999,0
+SES0023,PT0147,2024-10-17,Thursday,15,Dr. Priya Sharma,8,Arthritis,In-Clinic,Hyderabad,Insurance,60,0,,1374,0
+SES0647,PT0287,2024-10-17,Thursday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Hyderabad,UPI,0,1,No Show,0,2386
+SES0412,PT0051,2024-10-17,Thursday,10,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,Insurance,60,0,,1230,0
+SES0508,PT0389,2024-10-18,Friday,17,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Mumbai,Insurance,0,1,Doctor Unavailable,0,1668
+SES0811,PT0085,2024-10-18,Friday,11,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,60,0,,1640,0
+SES0604,PT0367,2024-10-18,Friday,12,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Pune,UPI,45,0,,957,0
+SES0642,PT0244,2024-10-18,Friday,11,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Chennai,Cash,45,0,,1133,0
+SES0822,PT0179,2024-10-18,Friday,18,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Mumbai,Cash,60,0,,1592,0
+SES0953,PT0197,2024-10-18,Friday,11,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Chennai,Cash,60,0,,2267,0
+SES1029,PT0223,2024-10-18,Friday,16,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Chennai,UPI,60,0,,2626,0
+SES0804,PT0011,2024-10-18,Friday,17,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hyderabad,Insurance,60,0,,1735,0
+SES0973,PT0253,2024-10-19,Saturday,10,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,UPI,0,1,No Show,0,1419
+SES0490,PT0070,2024-10-19,Saturday,19,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Chennai,UPI,90,0,,1858,0
+SES0678,PT0062,2024-10-19,Saturday,16,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Pune,Cash,60,0,,1513,0
+SES0815,PT0133,2024-10-21,Monday,15,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Pune,UPI,45,0,,2362,0
+SES0152,PT0205,2024-10-21,Monday,18,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,Insurance,60,0,,1204,0
+SES1165,PT0159,2024-10-21,Monday,10,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Chennai,Insurance,30,0,,2060,0
+SES0097,PT0159,2024-10-21,Monday,9,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Mumbai,Card,90,0,,1575,0
+SES1090,PT0262,2024-10-21,Monday,13,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Pune,Card,60,0,,1057,0
+SES0788,PT0079,2024-10-21,Monday,12,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Bangalore,Insurance,0,1,Last-Minute Cancel,0,1510
+SES1148,PT0366,2024-10-21,Monday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Chennai,Cash,45,0,,1725,0
+SES0324,PT0117,2024-10-22,Tuesday,16,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,Cash,60,0,,1882,0
+SES0452,PT0198,2024-10-22,Tuesday,11,Dr. Meena Iyer,11,Arthritis,Home Visit,Pune,UPI,60,0,,1504,0
+SES1094,PT0101,2024-10-22,Tuesday,12,Dr. Arjun Nair,3,Arthritis,In-Clinic,Mumbai,Card,0,1,Patient Emergency,0,1251
+SES0104,PT0112,2024-10-22,Tuesday,13,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Bangalore,UPI,0,1,Rescheduled,0,1012
+SES1037,PT0260,2024-10-22,Tuesday,10,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Mumbai,UPI,0,1,No Show,0,1448
+SES1033,PT0092,2024-10-22,Tuesday,13,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Bangalore,Insurance,90,0,,1490,0
+SES0519,PT0048,2024-10-22,Tuesday,13,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,UPI,45,0,,1621,0
+SES0157,PT0191,2024-10-22,Tuesday,16,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Bangalore,Insurance,45,0,,1509,0
+SES0185,PT0178,2024-10-22,Tuesday,15,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Mumbai,UPI,60,0,,1320,0
+SES0443,PT0281,2024-10-22,Tuesday,10,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Bangalore,Insurance,60,0,,1613,0
+SES0229,PT0158,2024-10-22,Tuesday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Mumbai,UPI,45,0,,1204,0
+SES0347,PT0214,2024-10-22,Tuesday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Mumbai,UPI,45,0,,1791,0
+SES1163,PT0369,2024-10-22,Tuesday,16,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Mumbai,Cash,0,1,Patient Emergency,0,1892
+SES1162,PT0060,2024-10-22,Tuesday,10,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hyderabad,UPI,45,0,,1412,0
+SES1064,PT0215,2024-10-23,Wednesday,12,Dr. Arjun Nair,3,Knee Rehabilitation,Teleconsultation,Bangalore,Insurance,60,0,,1200,0
+SES0534,PT0296,2024-10-23,Wednesday,11,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1349,0
+SES1044,PT0118,2024-10-23,Wednesday,16,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Chennai,Insurance,90,0,,1385,0
+SES0407,PT0044,2024-10-23,Wednesday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Bangalore,Insurance,45,0,,996,0
+SES0193,PT0121,2024-10-23,Wednesday,16,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Hyderabad,UPI,60,0,,864,0
+SES0898,PT0200,2024-10-23,Wednesday,15,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Pune,UPI,30,0,,1693,0
+SES0290,PT0208,2024-10-24,Thursday,14,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Mumbai,Card,45,0,,1654,0
+SES0540,PT0283,2024-10-24,Thursday,13,Dr. Suresh Pillai,15,Arthritis,Home Visit,Hyderabad,Cash,30,0,,1576,0
+SES0174,PT0259,2024-10-24,Thursday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,60,0,,2415,0
+SES0501,PT0362,2024-10-24,Thursday,15,Dr. Meena Iyer,11,Shoulder Injury,Home Visit,Mumbai,UPI,0,1,Doctor Unavailable,0,1777
+SES0072,PT0210,2024-10-24,Thursday,15,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,45,0,,1994,0
+SES0210,PT0332,2024-10-24,Thursday,17,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Bangalore,UPI,0,1,No Show,0,1274
+SES0947,PT0325,2024-10-24,Thursday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Bangalore,Cash,45,0,,1353,0
+SES0777,PT0036,2024-10-25,Friday,9,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Chennai,UPI,60,0,,1682,0
+SES0277,PT0255,2024-10-25,Friday,14,Dr. Priya Sharma,8,Sports Injury,Home Visit,Mumbai,Cash,0,1,Patient Emergency,0,1960
+SES0556,PT0328,2024-10-25,Friday,18,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Mumbai,Cash,90,0,,1380,0
+SES0113,PT0174,2024-10-25,Friday,13,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,45,0,,2118,0
+SES0119,PT0215,2024-10-25,Friday,12,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hyderabad,Cash,60,0,,1253,0
+SES0528,PT0167,2024-10-25,Friday,13,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,Card,0,1,Last-Minute Cancel,0,1261
+SES0937,PT0115,2024-10-25,Friday,14,Dr. Kavitha Reddy,6,Lower Back Pain,Home Visit,Pune,Insurance,0,1,Doctor Unavailable,0,1635
+SES0168,PT0153,2024-10-25,Friday,10,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1573
+SES0176,PT0266,2024-10-25,Friday,11,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Hyderabad,UPI,90,0,,1114,0
+SES0848,PT0205,2024-10-25,Friday,10,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Pune,UPI,0,1,Doctor Unavailable,0,1632
+SES1182,PT0174,2024-10-25,Friday,14,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Chennai,UPI,60,0,,1809,0
+SES0190,PT0146,2024-10-25,Friday,19,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Bangalore,Cash,90,0,,1199,0
+SES0259,PT0375,2024-10-26,Saturday,15,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Mumbai,UPI,60,0,,1712,0
+SES1002,PT0240,2024-10-26,Saturday,12,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Pune,Card,60,0,,1554,0
+SES0934,PT0091,2024-10-26,Saturday,13,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Mumbai,Insurance,60,0,,1325,0
+SES0110,PT0155,2024-10-26,Saturday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Chennai,UPI,0,1,Doctor Unavailable,0,2139
+SES0945,PT0057,2024-10-26,Saturday,18,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Mumbai,Cash,45,0,,1393,0
+SES0919,PT0092,2024-10-26,Saturday,12,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Mumbai,UPI,60,0,,1712,0
+SES0261,PT0051,2024-10-26,Saturday,9,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Mumbai,Insurance,60,0,,838,0
+SES0191,PT0084,2024-10-26,Saturday,15,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Bangalore,Insurance,45,0,,1445,0
+SES1074,PT0141,2024-10-26,Saturday,11,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Bangalore,Insurance,60,0,,1134,0
+SES0592,PT0097,2024-10-26,Saturday,10,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Mumbai,UPI,90,0,,1684,0
+SES0004,PT0374,2024-10-26,Saturday,14,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Mumbai,Cash,60,0,,1366,0
+SES0702,PT0212,2024-10-26,Saturday,18,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Hyderabad,UPI,90,0,,1658,0
+SES1108,PT0072,2024-10-28,Monday,14,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Hyderabad,Cash,60,0,,1463,0
+SES0923,PT0179,2024-10-28,Monday,13,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,Insurance,45,0,,1595,0
+SES0956,PT0110,2024-10-28,Monday,14,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Bangalore,Insurance,30,0,,1420,0
+SES0752,PT0076,2024-10-29,Tuesday,12,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Pune,Insurance,0,1,Rescheduled,0,1203
+SES0665,PT0006,2024-10-29,Tuesday,10,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,Cash,60,0,,1142,0
+SES0925,PT0080,2024-10-29,Tuesday,10,Dr. Suresh Pillai,15,Fracture Recovery,In-Clinic,Chennai,Cash,90,0,,1622,0
+SES0656,PT0400,2024-10-29,Tuesday,16,Dr. Suresh Pillai,15,Arthritis,Home Visit,Mumbai,UPI,60,0,,1546,0
+SES1147,PT0267,2024-10-29,Tuesday,17,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1637
+SES0297,PT0030,2024-10-29,Tuesday,14,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,90,0,,2420,0
+SES0088,PT0039,2024-10-29,Tuesday,16,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Pune,Cash,0,1,Patient Emergency,0,1558
+SES0056,PT0065,2024-10-30,Wednesday,15,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Pune,Cash,60,0,,2359,0
+SES0151,PT0279,2024-10-30,Wednesday,11,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Hyderabad,UPI,45,0,,1126,0
+SES0476,PT0043,2024-10-30,Wednesday,14,Dr. Rohan Verma,2,Sports Injury,Home Visit,Bangalore,UPI,0,1,Doctor Unavailable,0,2000
+SES0323,PT0026,2024-10-30,Wednesday,18,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Pune,Insurance,60,0,,1085,0
+SES0328,PT0091,2024-10-30,Wednesday,14,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Hyderabad,Cash,60,0,,1119,0
+SES0044,PT0024,2024-10-30,Wednesday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Mumbai,UPI,60,0,,1784,0
+SES0977,PT0342,2024-10-30,Wednesday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Mumbai,Cash,0,1,Rescheduled,0,1507
+SES0622,PT0259,2024-10-30,Wednesday,12,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Pune,UPI,90,0,,988,0
+SES0380,PT0272,2024-10-30,Wednesday,19,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Chennai,UPI,30,0,,1206,0
+SES1197,PT0160,2024-10-30,Wednesday,13,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Mumbai,Cash,60,0,,1481,0
+SES0212,PT0383,2024-10-31,Thursday,18,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Mumbai,Card,45,0,,2082,0
+SES0514,PT0345,2024-10-31,Thursday,18,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Bangalore,UPI,60,0,,1544,0
+SES0832,PT0362,2024-10-31,Thursday,15,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Bangalore,Insurance,90,0,,1725,0
+SES0659,PT0232,2024-10-31,Thursday,17,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Bangalore,Insurance,0,1,No Show,0,1764
+SES0585,PT0009,2024-10-31,Thursday,15,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Mumbai,UPI,0,1,Doctor Unavailable,0,1500
+SES0778,PT0215,2024-10-31,Thursday,16,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,UPI,45,0,,1405,0
+SES0879,PT0035,2024-11-01,Friday,13,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hyderabad,Insurance,30,0,,1101,0
+SES0966,PT0165,2024-11-01,Friday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,Insurance,30,0,,2110,0
+SES0444,PT0178,2024-11-01,Friday,14,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,Cash,45,0,,1285,0
+SES0596,PT0117,2024-11-01,Friday,12,Dr. Kavitha Reddy,6,Shoulder Injury,Teleconsultation,Bangalore,UPI,45,0,,1283,0
+SES0472,PT0371,2024-11-01,Friday,11,Dr. Priya Sharma,8,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1349,0
+SES0066,PT0099,2024-11-01,Friday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Pune,Insurance,60,0,,2314,0
+SES0232,PT0216,2024-11-01,Friday,16,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Bangalore,UPI,60,0,,1742,0
+SES1075,PT0143,2024-11-01,Friday,12,Dr. Meena Iyer,11,Arthritis,In-Clinic,Chennai,Card,45,0,,1302,0
+SES0403,PT0250,2024-11-01,Friday,17,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,0,1,No Show,0,2174
+SES1150,PT0073,2024-11-01,Friday,11,Dr. Kavitha Reddy,6,Knee Rehabilitation,Home Visit,Bangalore,UPI,0,1,Last-Minute Cancel,0,1785
+SES1065,PT0397,2024-11-01,Friday,17,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Pune,UPI,60,0,,1530,0
+SES0591,PT0232,2024-11-02,Saturday,13,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1292,0
+SES0814,PT0102,2024-11-02,Saturday,11,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,UPI,60,0,,1287,0
+SES0303,PT0328,2024-11-02,Saturday,15,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Hyderabad,Insurance,60,0,,1312,0
+SES0356,PT0248,2024-11-02,Saturday,10,Dr. Kavitha Reddy,6,Arthritis,Home Visit,Pune,Cash,45,0,,1455,0
+SES0022,PT0086,2024-11-02,Saturday,13,Dr. Kavitha Reddy,6,Lower Back Pain,Teleconsultation,Pune,Card,45,0,,1080,0
+SES0325,PT0380,2024-11-02,Saturday,16,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Hyderabad,Card,60,0,,2341,0
+SES0485,PT0162,2024-11-02,Saturday,17,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1218,0
+SES1071,PT0204,2024-11-02,Saturday,9,Dr. Priya Sharma,8,Lower Back Pain,Home Visit,Chennai,Cash,60,0,,1357,0
+SES0128,PT0396,2024-11-04,Monday,13,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Pune,Insurance,60,0,,1727,0
+SES0189,PT0204,2024-11-04,Monday,11,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Mumbai,UPI,45,0,,1182,0
+SES0062,PT0015,2024-11-04,Monday,17,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Bangalore,Insurance,0,1,No Show,0,1554
+SES0282,PT0303,2024-11-04,Monday,19,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Bangalore,UPI,60,0,,2198,0
+SES0010,PT0261,2024-11-04,Monday,10,Dr. Rohan Verma,2,Arthritis,In-Clinic,Pune,Card,0,1,Last-Minute Cancel,0,1210
+SES1140,PT0207,2024-11-04,Monday,16,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Pune,Cash,45,0,,1193,0
+SES0419,PT0328,2024-11-04,Monday,13,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Pune,Cash,0,1,Patient Emergency,0,2010
+SES0727,PT0122,2024-11-04,Monday,13,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Chennai,Insurance,45,0,,1308,0
+SES0548,PT0079,2024-11-04,Monday,16,Dr. Priya Sharma,8,Cervical Spondylosis,Teleconsultation,Chennai,Card,60,0,,879,0
+SES0359,PT0241,2024-11-04,Monday,17,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Chennai,Card,0,1,Doctor Unavailable,0,1157
+SES1000,PT0302,2024-11-04,Monday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,60,0,,2150,0
+SES0584,PT0232,2024-11-04,Monday,11,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Mumbai,UPI,60,0,,1083,0
+SES0080,PT0388,2024-11-05,Tuesday,15,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,Cash,60,0,,1223,0
+SES0936,PT0054,2024-11-05,Tuesday,16,Dr. Priya Sharma,8,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,60,0,,1513,0
+SES0366,PT0259,2024-11-05,Tuesday,9,Dr. Suresh Pillai,15,Knee Rehabilitation,Home Visit,Chennai,Cash,60,0,,1819,0
+SES0650,PT0129,2024-11-05,Tuesday,17,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Chennai,Insurance,60,0,,1387,0
+SES0275,PT0084,2024-11-05,Tuesday,18,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Mumbai,Insurance,60,0,,1479,0
+SES0763,PT0192,2024-11-05,Tuesday,14,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Chennai,UPI,0,1,Rescheduled,0,1508
+SES1194,PT0016,2024-11-05,Tuesday,11,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Pune,Card,60,0,,1364,0
+SES0794,PT0155,2024-11-05,Tuesday,19,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hyderabad,Insurance,90,0,,1108,0
+SES0398,PT0187,2024-11-06,Wednesday,9,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Hyderabad,Cash,90,0,,1530,0
+SES0499,PT0370,2024-11-06,Wednesday,10,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1523,0
+SES0914,PT0052,2024-11-06,Wednesday,16,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Chennai,Insurance,45,0,,1526,0
+SES0280,PT0062,2024-11-06,Wednesday,15,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Bangalore,UPI,0,1,No Show,0,1167
+SES1167,PT0158,2024-11-06,Wednesday,12,Dr. Arjun Nair,3,Post-Stroke Recovery,Home Visit,Pune,Insurance,60,0,,2486,0
+SES0075,PT0140,2024-11-06,Wednesday,14,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,60,0,,1529,0
+SES0379,PT0035,2024-11-07,Thursday,11,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Chennai,Card,45,0,,1079,0
+SES0013,PT0328,2024-11-07,Thursday,14,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Bangalore,UPI,0,1,No Show,0,1411
+SES0112,PT0233,2024-11-07,Thursday,14,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Bangalore,Cash,0,1,Last-Minute Cancel,0,1178
+SES0084,PT0175,2024-11-07,Thursday,12,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,0,1,Rescheduled,0,1601
+SES0059,PT0036,2024-11-07,Thursday,15,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Bangalore,Cash,0,1,Doctor Unavailable,0,1277
+SES0513,PT0158,2024-11-07,Thursday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Mumbai,UPI,45,0,,2307,0
+SES0137,PT0052,2024-11-07,Thursday,16,Dr. Arjun Nair,3,Post-Stroke Recovery,Teleconsultation,Bangalore,UPI,30,0,,2153,0
+SES0047,PT0369,2024-11-07,Thursday,13,Dr. Suresh Pillai,15,Cervical Spondylosis,Teleconsultation,Chennai,Insurance,45,0,,890,0
+SES0858,PT0347,2024-11-08,Friday,18,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Hyderabad,UPI,0,1,Doctor Unavailable,0,1906
+SES0629,PT0249,2024-11-08,Friday,12,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,45,0,,1014,0
+SES0682,PT0263,2024-11-08,Friday,13,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Mumbai,Cash,0,1,Patient Emergency,0,1913
+SES0278,PT0117,2024-11-08,Friday,9,Dr. Arjun Nair,3,Sports Injury,Home Visit,Mumbai,Insurance,30,0,,1895,0
+SES0529,PT0066,2024-11-08,Friday,10,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Chennai,UPI,45,0,,1483,0
+SES0252,PT0282,2024-11-08,Friday,10,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Hyderabad,Cash,0,1,Patient Emergency,0,1916
+SES0762,PT0065,2024-11-08,Friday,19,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Bangalore,Cash,30,0,,1036,0
+SES0577,PT0249,2024-11-09,Saturday,10,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Mumbai,UPI,60,0,,1044,0
+SES0018,PT0037,2024-11-09,Saturday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,45,0,,2074,0
+SES0423,PT0060,2024-11-09,Saturday,18,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Bangalore,Cash,60,0,,1594,0
+SES0192,PT0219,2024-11-09,Saturday,12,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,90,0,,2022,0
+SES0854,PT0352,2024-11-09,Saturday,15,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1207,0
+SES0048,PT0393,2024-11-11,Monday,13,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Bangalore,UPI,0,1,Doctor Unavailable,0,1465
+SES0916,PT0334,2024-11-11,Monday,18,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Chennai,Cash,0,1,No Show,0,1161
+SES0231,PT0125,2024-11-11,Monday,11,Dr. Rohan Verma,2,Arthritis,Home Visit,Chennai,Insurance,0,1,No Show,0,1526
+SES0413,PT0296,2024-11-11,Monday,10,Dr. Meena Iyer,11,Arthritis,In-Clinic,Mumbai,UPI,0,1,No Show,0,1349
+SES0852,PT0090,2024-11-12,Tuesday,16,Dr. Arjun Nair,3,Arthritis,Teleconsultation,Mumbai,Insurance,0,1,Doctor Unavailable,0,1011
+SES0882,PT0258,2024-11-12,Tuesday,12,Dr. Arjun Nair,3,Lower Back Pain,Teleconsultation,Hyderabad,Insurance,45,0,,959,0
+SES0872,PT0195,2024-11-12,Tuesday,12,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Mumbai,UPI,45,0,,1419,0
+SES0326,PT0400,2024-11-12,Tuesday,17,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,Cash,0,1,No Show,0,1613
+SES0098,PT0188,2024-11-13,Wednesday,13,Dr. Meena Iyer,11,Arthritis,In-Clinic,Chennai,UPI,90,0,,1213,0
+SES0011,PT0240,2024-11-13,Wednesday,11,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,UPI,60,0,,1415,0
+SES0284,PT0106,2024-11-13,Wednesday,19,Dr. Suresh Pillai,15,Arthritis,Home Visit,Mumbai,Insurance,90,0,,1748,0
+SES0968,PT0303,2024-11-13,Wednesday,14,Dr. Rohan Verma,2,Arthritis,In-Clinic,Pune,UPI,0,1,Rescheduled,0,1354
+SES0067,PT0008,2024-11-14,Thursday,10,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,0,1,Last-Minute Cancel,0,2223
+SES0139,PT0120,2024-11-14,Thursday,11,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Hyderabad,Cash,90,0,,2114,0
+SES0826,PT0341,2024-11-14,Thursday,15,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Mumbai,Insurance,45,0,,2648,0
+SES0775,PT0033,2024-11-14,Thursday,13,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Hyderabad,UPI,90,0,,1062,0
+SES0123,PT0195,2024-11-14,Thursday,15,Dr. Priya Sharma,8,Lower Back Pain,In-Clinic,Pune,Cash,60,0,,1280,0
+SES0410,PT0020,2024-11-14,Thursday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Chennai,Card,0,1,Doctor Unavailable,0,1548
+SES0960,PT0019,2024-11-14,Thursday,18,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Hyderabad,Insurance,0,1,Last-Minute Cancel,0,1462
+SES0599,PT0277,2024-11-14,Thursday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,Teleconsultation,Hyderabad,UPI,60,0,,883,0
+SES0196,PT0388,2024-11-15,Friday,16,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,60,0,,1158,0
+SES1106,PT0080,2024-11-15,Friday,14,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Hyderabad,Insurance,60,0,,1381,0
+SES0146,PT0306,2024-11-15,Friday,9,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Hyderabad,Insurance,45,0,,1517,0
+SES0638,PT0011,2024-11-15,Friday,12,Dr. Suresh Pillai,15,Knee Rehabilitation,Teleconsultation,Pune,UPI,60,0,,1394,0
+SES0383,PT0086,2024-11-15,Friday,14,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,60,0,,2073,0
+SES0288,PT0062,2024-11-15,Friday,12,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Hyderabad,Cash,60,0,,1486,0
+SES0597,PT0365,2024-11-15,Friday,12,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Pune,Cash,60,0,,1495,0
+SES0829,PT0303,2024-11-15,Friday,11,Dr. Meena Iyer,11,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1280,0
+SES0497,PT0126,2024-11-15,Friday,13,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Mumbai,Cash,60,0,,1214,0
+SES0707,PT0019,2024-11-15,Friday,12,Dr. Suresh Pillai,15,Arthritis,Home Visit,Mumbai,Insurance,45,0,,1677,0
+SES0459,PT0135,2024-11-16,Saturday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Bangalore,UPI,0,1,Patient Emergency,0,1366
+SES1125,PT0393,2024-11-16,Saturday,12,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Bangalore,UPI,60,0,,1082,0
+SES0024,PT0297,2024-11-16,Saturday,9,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Mumbai,UPI,0,1,Last-Minute Cancel,0,1424
+SES0187,PT0003,2024-11-18,Monday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Pune,UPI,0,1,Doctor Unavailable,0,1394
+SES0391,PT0028,2024-11-18,Monday,13,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Chennai,UPI,30,0,,1725,0
+SES0553,PT0161,2024-11-18,Monday,9,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Pune,Insurance,0,1,Last-Minute Cancel,0,1985
+SES0065,PT0382,2024-11-18,Monday,12,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,45,0,,1050,0
+SES0017,PT0302,2024-11-19,Tuesday,11,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,UPI,0,1,Last-Minute Cancel,0,1562
+SES0990,PT0214,2024-11-19,Tuesday,11,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Pune,UPI,90,0,,1631,0
+SES0690,PT0306,2024-11-19,Tuesday,19,Dr. Suresh Pillai,15,Arthritis,Teleconsultation,Chennai,Insurance,0,1,Doctor Unavailable,0,1097
+SES1069,PT0393,2024-11-19,Tuesday,9,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Bangalore,UPI,0,1,No Show,0,1750
+SES0875,PT0350,2024-11-19,Tuesday,16,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Rescheduled,0,1153
+SES0141,PT0191,2024-11-19,Tuesday,18,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Hyderabad,UPI,45,0,,1204,0
+SES0083,PT0234,2024-11-19,Tuesday,10,Dr. Meena Iyer,11,Arthritis,Home Visit,Pune,Card,60,0,,1632,0
+SES0426,PT0039,2024-11-19,Tuesday,18,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Bangalore,UPI,60,0,,1747,0
+SES1115,PT0351,2024-11-20,Wednesday,17,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Pune,Insurance,45,0,,2190,0
+SES1172,PT0167,2024-11-20,Wednesday,14,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,60,0,,1037,0
+SES0046,PT0026,2024-11-20,Wednesday,11,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hyderabad,Insurance,60,0,,1685,0
+SES1059,PT0163,2024-11-20,Wednesday,15,Dr. Priya Sharma,8,Arthritis,In-Clinic,Chennai,Insurance,60,0,,1179,0
+SES1180,PT0048,2024-11-20,Wednesday,16,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Chennai,Insurance,60,0,,1484,0
+SES0240,PT0262,2024-11-20,Wednesday,14,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,UPI,45,0,,1286,0
+SES0940,PT0124,2024-11-20,Wednesday,19,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Hyderabad,Card,60,0,,1132,0
+SES0961,PT0205,2024-11-20,Wednesday,16,Dr. Priya Sharma,8,Arthritis,Home Visit,Bangalore,UPI,45,0,,1455,0
+SES0199,PT0030,2024-11-21,Thursday,13,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Chennai,Cash,45,0,,1671,0
+SES0477,PT0247,2024-11-21,Thursday,11,Dr. Rohan Verma,2,Arthritis,Home Visit,Pune,UPI,0,1,Patient Emergency,0,1503
+SES0507,PT0294,2024-11-21,Thursday,11,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Chennai,UPI,90,0,,1422,0
+SES0117,PT0220,2024-11-21,Thursday,19,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Pune,UPI,60,0,,1125,0
+SES0034,PT0400,2024-11-21,Thursday,17,Dr. Meena Iyer,11,Post-Stroke Recovery,Home Visit,Bangalore,Insurance,45,0,,2560,0
+SES1092,PT0224,2024-11-21,Thursday,13,Dr. Arjun Nair,3,Shoulder Injury,Teleconsultation,Pune,Insurance,45,0,,1140,0
+SES0101,PT0318,2024-11-21,Thursday,12,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Mumbai,UPI,60,0,,1132,0
+SES0909,PT0095,2024-11-21,Thursday,14,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,0,1,Doctor Unavailable,0,2190
+SES0436,PT0185,2024-11-21,Thursday,14,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Bangalore,UPI,60,0,,1453,0
+SES0929,PT0006,2024-11-21,Thursday,16,Dr. Arjun Nair,3,Arthritis,In-Clinic,Hyderabad,Insurance,60,0,,1190,0
+SES1077,PT0049,2024-11-21,Thursday,11,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Mumbai,UPI,45,0,,1796,0
+SES1066,PT0032,2024-11-21,Thursday,16,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hyderabad,UPI,45,0,,1734,0
+SES0135,PT0159,2024-11-21,Thursday,12,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Mumbai,Insurance,60,0,,1381,0
+SES0922,PT0359,2024-11-21,Thursday,9,Dr. Suresh Pillai,15,Lower Back Pain,Home Visit,Pune,Cash,45,0,,1437,0
+SES0987,PT0341,2024-11-21,Thursday,11,Dr. Arjun Nair,3,Cervical Spondylosis,Teleconsultation,Chennai,Insurance,0,1,Rescheduled,0,836
+SES0225,PT0040,2024-11-22,Friday,11,Dr. Arjun Nair,3,Shoulder Injury,Home Visit,Hyderabad,Insurance,60,0,,1662,0
+SES0053,PT0304,2024-11-22,Friday,15,Dr. Rohan Verma,2,Shoulder Injury,Teleconsultation,Hyderabad,Cash,0,1,Doctor Unavailable,0,1113
+SES0166,PT0173,2024-11-22,Friday,9,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Chennai,Cash,90,0,,1283,0
+SES0321,PT0055,2024-11-22,Friday,16,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1503,0
+SES0399,PT0092,2024-11-22,Friday,18,Dr. Suresh Pillai,15,Shoulder Injury,Home Visit,Pune,UPI,60,0,,1859,0
+SES1170,PT0218,2024-11-22,Friday,13,Dr. Meena Iyer,11,Cervical Spondylosis,Home Visit,Bangalore,UPI,60,0,,1473,0
+SES0197,PT0040,2024-11-22,Friday,10,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Bangalore,Cash,45,0,,1621,0
+SES0357,PT0371,2024-11-22,Friday,11,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Chennai,Insurance,60,0,,1612,0
+SES0224,PT0279,2024-11-22,Friday,15,Dr. Meena Iyer,11,Lower Back Pain,Teleconsultation,Bangalore,Insurance,30,0,,1070,0
+SES0502,PT0172,2024-11-22,Friday,17,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Pune,UPI,45,0,,1305,0
+SES1012,PT0037,2024-11-23,Saturday,10,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hyderabad,Cash,45,0,,1631,0
+SES0458,PT0357,2024-11-23,Saturday,11,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Chennai,Cash,45,0,,1988,0
+SES0729,PT0156,2024-11-23,Saturday,13,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Pune,Cash,45,0,,1541,0
+SES0215,PT0195,2024-11-23,Saturday,17,Dr. Meena Iyer,11,Arthritis,In-Clinic,Pune,UPI,60,0,,1340,0
+SES0722,PT0388,2024-11-23,Saturday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Chennai,Cash,30,0,,1501,0
+SES0531,PT0223,2024-11-23,Saturday,16,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,Insurance,60,0,,1042,0
+SES0522,PT0012,2024-11-25,Monday,16,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Bangalore,UPI,45,0,,1319,0
+SES1145,PT0106,2024-11-25,Monday,13,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Patient Emergency,0,1088
+SES1184,PT0395,2024-11-25,Monday,18,Dr. Suresh Pillai,15,Cervical Spondylosis,In-Clinic,Pune,Insurance,60,0,,1147,0
+SES0506,PT0342,2024-11-25,Monday,17,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Mumbai,UPI,0,1,Last-Minute Cancel,0,1365
+SES1088,PT0170,2024-11-25,Monday,16,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hyderabad,Cash,60,0,,1624,0
+SES0116,PT0054,2024-11-25,Monday,13,Dr. Suresh Pillai,15,Lower Back Pain,Teleconsultation,Bangalore,Cash,60,0,,996,0
+SES0039,PT0198,2024-11-25,Monday,11,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Mumbai,Card,0,1,Doctor Unavailable,0,990
+SES0691,PT0217,2024-11-25,Monday,12,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Mumbai,UPI,0,1,Doctor Unavailable,0,1725
+SES0076,PT0346,2024-11-25,Monday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Pune,UPI,0,1,Rescheduled,0,1421
+SES0431,PT0195,2024-11-26,Tuesday,10,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Pune,UPI,45,0,,1716,0
+SES0770,PT0208,2024-11-26,Tuesday,16,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Hyderabad,UPI,0,1,Patient Emergency,0,1976
+SES0566,PT0077,2024-11-26,Tuesday,11,Dr. Arjun Nair,3,Fracture Recovery,Teleconsultation,Chennai,Insurance,0,1,No Show,0,1397
+SES0887,PT0105,2024-11-26,Tuesday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Bangalore,UPI,60,0,,2448,0
+SES0367,PT0355,2024-11-26,Tuesday,11,Dr. Kavitha Reddy,6,Fracture Recovery,Teleconsultation,Pune,Insurance,60,0,,1289,0
+SES0038,PT0092,2024-11-26,Tuesday,19,Dr. Rohan Verma,2,Cervical Spondylosis,Teleconsultation,Bangalore,UPI,0,1,Last-Minute Cancel,0,917
+SES0611,PT0133,2024-11-26,Tuesday,9,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Mumbai,Insurance,0,1,No Show,0,1457
+SES0172,PT0111,2024-11-27,Wednesday,12,Dr. Priya Sharma,8,Knee Rehabilitation,Teleconsultation,Pune,Cash,0,1,Doctor Unavailable,0,1325
+SES0077,PT0093,2024-11-27,Wednesday,13,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Bangalore,Cash,60,0,,1750,0
+SES0995,PT0063,2024-11-27,Wednesday,15,Dr. Priya Sharma,8,Sports Injury,In-Clinic,Mumbai,Insurance,45,0,,1639,0
+SES0965,PT0386,2024-11-27,Wednesday,17,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Pune,UPI,60,0,,1572,0
+SES0535,PT0046,2024-11-27,Wednesday,9,Dr. Suresh Pillai,15,Sports Injury,Teleconsultation,Bangalore,Card,45,0,,1569,0
+SES0393,PT0356,2024-11-27,Wednesday,11,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Bangalore,UPI,90,0,,1168,0
+SES0816,PT0016,2024-11-27,Wednesday,11,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Bangalore,UPI,30,0,,1578,0
+SES1161,PT0125,2024-11-27,Wednesday,16,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Pune,UPI,60,0,,1288,0
+SES0552,PT0131,2024-11-27,Wednesday,13,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Mumbai,UPI,60,0,,1890,0
+SES0371,PT0246,2024-11-27,Wednesday,14,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Chennai,Insurance,60,0,,1377,0
+SES0316,PT0388,2024-11-28,Thursday,11,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Hyderabad,Insurance,0,1,Doctor Unavailable,0,1915
+SES0103,PT0215,2024-11-28,Thursday,16,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,Insurance,0,1,Doctor Unavailable,0,1340
+SES0073,PT0321,2024-11-28,Thursday,15,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Bangalore,UPI,60,0,,1576,0
+SES0983,PT0201,2024-11-28,Thursday,13,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Bangalore,Insurance,30,0,,1347,0
+SES0713,PT0207,2024-11-28,Thursday,14,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Chennai,UPI,60,0,,1719,0
+SES0271,PT0009,2024-11-28,Thursday,10,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Mumbai,Card,30,0,,1544,0
+SES0582,PT0111,2024-11-29,Friday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,Insurance,60,0,,1986,0
+SES0595,PT0249,2024-11-29,Friday,15,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,Insurance,60,0,,1313,0
+SES0500,PT0233,2024-11-29,Friday,18,Dr. Arjun Nair,3,Arthritis,In-Clinic,Pune,Cash,30,0,,1399,0
+SES0828,PT0380,2024-11-29,Friday,18,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Bangalore,UPI,45,0,,1385,0
+SES1112,PT0206,2024-11-29,Friday,9,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Chennai,Insurance,60,0,,1627,0
+SES1173,PT0370,2024-11-29,Friday,13,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Hyderabad,UPI,60,0,,1364,0
+SES1087,PT0040,2024-11-29,Friday,11,Dr. Kavitha Reddy,6,Arthritis,Teleconsultation,Pune,Cash,45,0,,1052,0
+SES0230,PT0048,2024-11-30,Saturday,14,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,UPI,0,1,Doctor Unavailable,0,1173
+SES0310,PT0174,2024-11-30,Saturday,19,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Mumbai,Cash,60,0,,1770,0
+SES0025,PT0036,2024-11-30,Saturday,10,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Pune,Cash,90,0,,1373,0
+SES0989,PT0155,2024-11-30,Saturday,12,Dr. Rohan Verma,2,Arthritis,Teleconsultation,Bangalore,UPI,45,0,,1139,0
+SES0779,PT0082,2024-12-02,Monday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Hyderabad,Insurance,0,1,No Show,0,1801
+SES1189,PT0380,2024-12-02,Monday,12,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Hyderabad,UPI,45,0,,1671,0
+SES0847,PT0069,2024-12-02,Monday,14,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Pune,UPI,60,0,,2102,0
+SES0489,PT0160,2024-12-02,Monday,12,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Hyderabad,Cash,45,0,,2071,0
+SES0154,PT0229,2024-12-02,Monday,15,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Bangalore,Insurance,60,0,,1483,0
+SES0581,PT0152,2024-12-02,Monday,11,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Pune,Insurance,90,0,,1745,0
+SES1185,PT0274,2024-12-02,Monday,18,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Mumbai,UPI,0,1,No Show,0,1411
+SES0657,PT0216,2024-12-02,Monday,16,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Bangalore,Cash,60,0,,1641,0
+SES1038,PT0074,2024-12-03,Tuesday,16,Dr. Meena Iyer,11,Arthritis,In-Clinic,Bangalore,Cash,60,0,,1276,0
+SES0517,PT0085,2024-12-03,Tuesday,13,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Chennai,UPI,60,0,,1288,0
+SES0268,PT0308,2024-12-03,Tuesday,12,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Chennai,UPI,60,0,,1992,0
+SES0510,PT0219,2024-12-03,Tuesday,17,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Bangalore,Cash,60,0,,1929,0
+SES0349,PT0102,2024-12-03,Tuesday,11,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,45,0,,1507,0
+SES1128,PT0076,2024-12-03,Tuesday,19,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Mumbai,UPI,45,0,,1722,0
+SES0504,PT0003,2024-12-03,Tuesday,17,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Chennai,Insurance,60,0,,1221,0
+SES0846,PT0181,2024-12-03,Tuesday,14,Dr. Rohan Verma,2,Shoulder Injury,In-Clinic,Chennai,Insurance,0,1,Last-Minute Cancel,0,1446
+SES0081,PT0323,2024-12-03,Tuesday,16,Dr. Meena Iyer,11,Fracture Recovery,Teleconsultation,Mumbai,Cash,30,0,,1347,0
+SES0418,PT0041,2024-12-03,Tuesday,9,Dr. Rohan Verma,2,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1426,0
+SES0957,PT0367,2024-12-03,Tuesday,18,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,60,0,,2275,0
+SES1142,PT0071,2024-12-04,Wednesday,15,Dr. Rohan Verma,2,Arthritis,In-Clinic,Pune,UPI,60,0,,1326,0
+SES1068,PT0315,2024-12-04,Wednesday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Mumbai,Insurance,60,0,,1266,0
+SES0543,PT0160,2024-12-04,Wednesday,9,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Chennai,Cash,0,1,Last-Minute Cancel,0,1789
+SES0511,PT0093,2024-12-04,Wednesday,11,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Hyderabad,Cash,0,1,No Show,0,1441
+SES1034,PT0142,2024-12-04,Wednesday,14,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,45,0,,2174,0
+SES0571,PT0324,2024-12-04,Wednesday,12,Dr. Rohan Verma,2,Post-Stroke Recovery,Teleconsultation,Mumbai,UPI,0,1,Doctor Unavailable,0,1832
+SES0964,PT0353,2024-12-04,Wednesday,16,Dr. Priya Sharma,8,Lower Back Pain,Teleconsultation,Bangalore,UPI,90,0,,1040,0
+SES0948,PT0248,2024-12-05,Thursday,14,Dr. Kavitha Reddy,6,Lower Back Pain,In-Clinic,Bangalore,UPI,0,1,Patient Emergency,0,1258
+SES0640,PT0086,2024-12-05,Thursday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,60,0,,2069,0
+SES0615,PT0287,2024-12-05,Thursday,15,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Pune,Cash,60,0,,1604,0
+SES0378,PT0397,2024-12-05,Thursday,17,Dr. Arjun Nair,3,Lower Back Pain,In-Clinic,Mumbai,UPI,0,1,Patient Emergency,0,1212
+SES0195,PT0189,2024-12-05,Thursday,11,Dr. Suresh Pillai,15,Sports Injury,Home Visit,Bangalore,Cash,60,0,,2091,0
+SES1110,PT0225,2024-12-05,Thursday,13,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,Cash,45,0,,1777,0
+SES0993,PT0066,2024-12-06,Friday,14,Dr. Arjun Nair,3,Sports Injury,Home Visit,Bangalore,Cash,60,0,,2013,0
+SES0338,PT0298,2024-12-06,Friday,10,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Chennai,Insurance,60,0,,1500,0
+SES0749,PT0318,2024-12-06,Friday,10,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Hyderabad,Cash,30,0,,1242,0
+SES0375,PT0104,2024-12-06,Friday,17,Dr. Suresh Pillai,15,Cervical Spondylosis,Teleconsultation,Bangalore,UPI,45,0,,890,0
+SES1127,PT0353,2024-12-06,Friday,11,Dr. Arjun Nair,3,Fracture Recovery,In-Clinic,Hyderabad,UPI,60,0,,1707,0
+SES0877,PT0039,2024-12-06,Friday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,Cash,45,0,,2415,0
+SES0294,PT0315,2024-12-06,Friday,14,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Mumbai,Insurance,60,0,,1800,0
+SES0125,PT0088,2024-12-06,Friday,13,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Bangalore,UPI,60,0,,1750,0
+SES0218,PT0031,2024-12-06,Friday,15,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Bangalore,Cash,60,0,,1516,0
+SES0962,PT0192,2024-12-06,Friday,10,Dr. Rohan Verma,2,Fracture Recovery,Home Visit,Mumbai,Card,0,1,Last-Minute Cancel,0,1763
+SES0070,PT0306,2024-12-06,Friday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Chennai,Insurance,60,0,,2178,0
+SES1035,PT0076,2024-12-06,Friday,15,Dr. Meena Iyer,11,Sports Injury,Teleconsultation,Pune,UPI,45,0,,1649,0
+SES0348,PT0139,2024-12-07,Saturday,14,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Insurance,45,0,,1279,0
+SES0138,PT0355,2024-12-07,Saturday,17,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Pune,UPI,60,0,,1383,0
+SES0706,PT0279,2024-12-07,Saturday,16,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Pune,Cash,60,0,,1767,0
+SES1063,PT0251,2024-12-09,Monday,13,Dr. Arjun Nair,3,Sports Injury,Home Visit,Hyderabad,Insurance,0,1,Doctor Unavailable,0,2014
+SES1062,PT0195,2024-12-09,Monday,14,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Chennai,Insurance,60,0,,1396,0
+SES0474,PT0325,2024-12-09,Monday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,Home Visit,Mumbai,Insurance,60,0,,2271,0
+SES1058,PT0233,2024-12-09,Monday,16,Dr. Arjun Nair,3,Knee Rehabilitation,In-Clinic,Bangalore,Cash,60,0,,1372,0
+SES1049,PT0230,2024-12-09,Monday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Bangalore,UPI,60,0,,1245,0
+SES0721,PT0293,2024-12-09,Monday,16,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,Insurance,45,0,,2126,0
+SES0069,PT0296,2024-12-09,Monday,15,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Mumbai,Cash,0,1,Patient Emergency,0,1962
+SES0704,PT0030,2024-12-09,Monday,19,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Chennai,Cash,90,0,,1613,0
+SES0931,PT0065,2024-12-10,Tuesday,13,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hyderabad,Insurance,45,0,,1195,0
+SES1122,PT0133,2024-12-10,Tuesday,10,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1406,0
+SES0999,PT0075,2024-12-10,Tuesday,9,Dr. Suresh Pillai,15,Fracture Recovery,Teleconsultation,Hyderabad,Cash,45,0,,1468,0
+SES0821,PT0009,2024-12-10,Tuesday,12,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,0,1,Rescheduled,0,2278
+SES0812,PT0056,2024-12-10,Tuesday,14,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,Insurance,45,0,,2232,0
+SES0031,PT0048,2024-12-10,Tuesday,13,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,Card,60,0,,1441,0
+SES0728,PT0209,2024-12-10,Tuesday,11,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Mumbai,UPI,90,0,,1526,0
+SES0808,PT0261,2024-12-10,Tuesday,15,Dr. Rohan Verma,2,Sports Injury,Home Visit,Bangalore,Insurance,90,0,,2163,0
+SES0801,PT0027,2024-12-10,Tuesday,19,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Pune,Cash,45,0,,1110,0
+SES0346,PT0193,2024-12-11,Wednesday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Mumbai,Insurance,90,0,,1274,0
+SES0644,PT0138,2024-12-11,Wednesday,14,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1475,0
+SES0438,PT0086,2024-12-11,Wednesday,16,Dr. Priya Sharma,8,Arthritis,Home Visit,Pune,Cash,60,0,,1642,0
+SES0167,PT0317,2024-12-11,Wednesday,9,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Hyderabad,Insurance,60,0,,2119,0
+SES0982,PT0194,2024-12-11,Wednesday,10,Dr. Arjun Nair,3,Arthritis,In-Clinic,Pune,Insurance,0,1,Patient Emergency,0,1404
+SES0007,PT0195,2024-12-11,Wednesday,15,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1351,0
+SES0466,PT0393,2024-12-11,Wednesday,14,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Mumbai,Cash,60,0,,1457,0
+SES0883,PT0021,2024-12-11,Wednesday,10,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Bangalore,Cash,45,0,,1520,0
+SES0549,PT0028,2024-12-12,Thursday,12,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Bangalore,Insurance,60,0,,1275,0
+SES0827,PT0335,2024-12-12,Thursday,16,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Hyderabad,UPI,45,0,,1777,0
+SES0461,PT0166,2024-12-12,Thursday,12,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Bangalore,UPI,0,1,Last-Minute Cancel,0,1727
+SES0295,PT0103,2024-12-12,Thursday,17,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Hyderabad,UPI,60,0,,1231,0
+SES0201,PT0393,2024-12-12,Thursday,19,Dr. Rohan Verma,2,Lower Back Pain,In-Clinic,Pune,UPI,90,0,,1181,0
+SES0648,PT0091,2024-12-12,Thursday,17,Dr. Priya Sharma,8,Sports Injury,Home Visit,Chennai,UPI,30,0,,2094,0
+SES0332,PT0288,2024-12-13,Friday,14,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Bangalore,Card,60,0,,1555,0
+SES0653,PT0011,2024-12-13,Friday,19,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Bangalore,UPI,60,0,,1175,0
+SES0405,PT0303,2024-12-13,Friday,17,Dr. Meena Iyer,11,Knee Rehabilitation,In-Clinic,Pune,Cash,0,1,Last-Minute Cancel,0,1388
+SES0970,PT0296,2024-12-13,Friday,10,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,45,0,,2027,0
+SES0269,PT0152,2024-12-13,Friday,9,Dr. Meena Iyer,11,Post-Stroke Recovery,In-Clinic,Hyderabad,Cash,60,0,,2400,0
+SES0781,PT0148,2024-12-13,Friday,17,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Mumbai,Cash,60,0,,1664,0
+SES0767,PT0136,2024-12-13,Friday,10,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Pune,UPI,60,0,,1726,0
+SES0239,PT0086,2024-12-13,Friday,14,Dr. Priya Sharma,8,Knee Rehabilitation,Home Visit,Bangalore,Insurance,60,0,,1852,0
+SES0558,PT0092,2024-12-13,Friday,13,Dr. Priya Sharma,8,Fracture Recovery,Teleconsultation,Hyderabad,UPI,45,0,,1475,0
+SES0132,PT0259,2024-12-13,Friday,11,Dr. Rohan Verma,2,Knee Rehabilitation,Home Visit,Mumbai,Insurance,0,1,Doctor Unavailable,0,1977
+SES0562,PT0324,2024-12-13,Friday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Mumbai,UPI,30,0,,1201,0
+SES0127,PT0180,2024-12-13,Friday,17,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Bangalore,UPI,45,0,,1394,0
+SES0292,PT0102,2024-12-13,Friday,13,Dr. Kavitha Reddy,6,Sports Injury,Teleconsultation,Mumbai,UPI,0,1,Rescheduled,0,1479
+SES0836,PT0377,2024-12-14,Saturday,9,Dr. Rohan Verma,2,Sports Injury,Teleconsultation,Pune,UPI,60,0,,1624,0
+SES0839,PT0399,2024-12-14,Saturday,12,Dr. Arjun Nair,3,Arthritis,Home Visit,Mumbai,Card,30,0,,1582,0
+SES0567,PT0360,2024-12-14,Saturday,10,Dr. Priya Sharma,8,Fracture Recovery,Teleconsultation,Pune,Cash,45,0,,1274,0
+SES0055,PT0115,2024-12-14,Saturday,10,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Bangalore,Cash,30,0,,1453,0
+SES1149,PT0323,2024-12-14,Saturday,13,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,Insurance,60,0,,1105,0
+SES0884,PT0001,2024-12-14,Saturday,12,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Mumbai,UPI,30,0,,1948,0
+SES0131,PT0231,2024-12-14,Saturday,11,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Mumbai,Cash,90,0,,1300,0
+SES0401,PT0021,2024-12-14,Saturday,12,Dr. Meena Iyer,11,Arthritis,In-Clinic,Mumbai,Cash,60,0,,1306,0
+SES0693,PT0367,2024-12-16,Monday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Chennai,Insurance,45,0,,2298,0
+SES1132,PT0213,2024-12-16,Monday,10,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Mumbai,Cash,0,1,Patient Emergency,0,1904
+SES0408,PT0320,2024-12-16,Monday,14,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Pune,Insurance,0,1,Rescheduled,0,1844
+SES0026,PT0215,2024-12-16,Monday,14,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,45,0,,2391,0
+SES0545,PT0294,2024-12-16,Monday,19,Dr. Kavitha Reddy,6,Sports Injury,In-Clinic,Pune,Cash,45,0,,1845,0
+SES1040,PT0017,2024-12-16,Monday,16,Dr. Meena Iyer,11,Cervical Spondylosis,Teleconsultation,Chennai,UPI,30,0,,990,0
+SES0467,PT0173,2024-12-16,Monday,11,Dr. Priya Sharma,8,Shoulder Injury,Home Visit,Chennai,Cash,45,0,,1681,0
+SES1022,PT0246,2024-12-16,Monday,10,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Hyderabad,UPI,0,1,Rescheduled,0,2175
+SES0683,PT0059,2024-12-17,Tuesday,13,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Mumbai,Insurance,30,0,,1923,0
+SES0563,PT0197,2024-12-17,Tuesday,11,Dr. Rohan Verma,2,Sports Injury,Home Visit,Mumbai,UPI,60,0,,2267,0
+SES0334,PT0207,2024-12-17,Tuesday,12,Dr. Arjun Nair,3,Lower Back Pain,Home Visit,Chennai,Insurance,0,1,Last-Minute Cancel,0,1547
+SES0789,PT0329,2024-12-17,Tuesday,15,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Chennai,UPI,45,0,,2152,0
+SES1200,PT0192,2024-12-17,Tuesday,10,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hyderabad,UPI,60,0,,2247,0
+SES1113,PT0067,2024-12-17,Tuesday,12,Dr. Suresh Pillai,15,Post-Stroke Recovery,Teleconsultation,Pune,Cash,45,0,,2188,0
+SES1176,PT0391,2024-12-17,Tuesday,12,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Chennai,UPI,30,0,,1437,0
+SES0358,PT0178,2024-12-17,Tuesday,15,Dr. Suresh Pillai,15,Knee Rehabilitation,In-Clinic,Hyderabad,Insurance,60,0,,1602,0
+SES0202,PT0042,2024-12-17,Tuesday,17,Dr. Rohan Verma,2,Fracture Recovery,Teleconsultation,Hyderabad,Card,0,1,Rescheduled,0,1293
+SES0428,PT0347,2024-12-17,Tuesday,13,Dr. Arjun Nair,3,Cervical Spondylosis,In-Clinic,Mumbai,UPI,0,1,Patient Emergency,0,1201
+SES0484,PT0339,2024-12-17,Tuesday,17,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Hyderabad,UPI,30,0,,2038,0
+SES0609,PT0064,2024-12-18,Wednesday,17,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Hyderabad,Cash,60,0,,1797,0
+SES0029,PT0005,2024-12-18,Wednesday,17,Dr. Kavitha Reddy,6,Sports Injury,Home Visit,Chennai,Card,90,0,,2169,0
+SES0147,PT0096,2024-12-18,Wednesday,15,Dr. Rohan Verma,2,Lower Back Pain,Home Visit,Hyderabad,UPI,90,0,,1458,0
+SES1057,PT0375,2024-12-19,Thursday,10,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Bangalore,UPI,0,1,Last-Minute Cancel,0,1888
+SES0603,PT0347,2024-12-19,Thursday,19,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Hyderabad,UPI,60,0,,1762,0
+SES0526,PT0366,2024-12-19,Thursday,17,Dr. Kavitha Reddy,6,Fracture Recovery,Home Visit,Pune,UPI,0,1,Doctor Unavailable,0,1926
+SES0649,PT0187,2024-12-19,Thursday,15,Dr. Priya Sharma,8,Cervical Spondylosis,Home Visit,Hyderabad,Insurance,0,1,No Show,0,1326
+SES0786,PT0364,2024-12-19,Thursday,16,Dr. Rohan Verma,2,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,60,0,,2010,0
+SES0246,PT0135,2024-12-19,Thursday,17,Dr. Priya Sharma,8,Shoulder Injury,In-Clinic,Mumbai,UPI,60,0,,1439,0
+SES0211,PT0371,2024-12-19,Thursday,14,Dr. Rohan Verma,2,Lower Back Pain,Teleconsultation,Chennai,UPI,45,0,,1074,0
+SES1093,PT0395,2024-12-19,Thursday,12,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Hyderabad,Insurance,60,0,,1126,0
+SES0155,PT0039,2024-12-19,Thursday,15,Dr. Suresh Pillai,15,Cervical Spondylosis,Home Visit,Mumbai,Cash,60,0,,1484,0
+SES0208,PT0330,2024-12-19,Thursday,12,Dr. Arjun Nair,3,Arthritis,In-Clinic,Bangalore,UPI,60,0,,1351,0
+SES0205,PT0229,2024-12-20,Friday,15,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,0,1,Last-Minute Cancel,0,2157
+SES0588,PT0264,2024-12-20,Friday,12,Dr. Arjun Nair,3,Knee Rehabilitation,Home Visit,Mumbai,UPI,0,1,Doctor Unavailable,0,1752
+SES0120,PT0026,2024-12-20,Friday,10,Dr. Kavitha Reddy,6,Knee Rehabilitation,Teleconsultation,Chennai,UPI,60,0,,1280,0
+SES0093,PT0148,2024-12-21,Saturday,14,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hyderabad,Insurance,0,1,Rescheduled,0,2305
+SES1082,PT0151,2024-12-21,Saturday,12,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1401,0
+SES0861,PT0174,2024-12-21,Saturday,11,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Mumbai,UPI,45,0,,1685,0
+SES0896,PT0093,2024-12-21,Saturday,13,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Chennai,Cash,60,0,,1452,0
+SES0243,PT0332,2024-12-21,Saturday,16,Dr. Meena Iyer,11,Lower Back Pain,Home Visit,Bangalore,UPI,60,0,,1572,0
+SES0182,PT0176,2024-12-21,Saturday,16,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,UPI,60,0,,1337,0
+SES0344,PT0173,2024-12-23,Monday,19,Dr. Meena Iyer,11,Sports Injury,In-Clinic,Chennai,Cash,45,0,,1944,0
+SES0894,PT0116,2024-12-23,Monday,13,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,45,0,,2342,0
+SES0478,PT0166,2024-12-23,Monday,18,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Hyderabad,UPI,0,1,Doctor Unavailable,0,2166
+SES0480,PT0103,2024-12-23,Monday,12,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Pune,Card,45,0,,1499,0
+SES1181,PT0393,2024-12-23,Monday,13,Dr. Priya Sharma,8,Fracture Recovery,Home Visit,Mumbai,Card,60,0,,1881,0
+SES1151,PT0152,2024-12-24,Tuesday,13,Dr. Suresh Pillai,15,Fracture Recovery,Home Visit,Bangalore,Insurance,60,0,,1976,0
+SES0470,PT0012,2024-12-24,Tuesday,17,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Bangalore,UPI,60,0,,1203,0
+SES0686,PT0185,2024-12-24,Tuesday,15,Dr. Rohan Verma,2,Fracture Recovery,In-Clinic,Chennai,Insurance,45,0,,1566,0
+SES0455,PT0298,2024-12-24,Tuesday,13,Dr. Kavitha Reddy,6,Knee Rehabilitation,In-Clinic,Mumbai,UPI,30,0,,1461,0
+SES1131,PT0141,2024-12-24,Tuesday,16,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,UPI,60,0,,1138,0
+SES0886,PT0055,2024-12-24,Tuesday,12,Dr. Meena Iyer,11,Shoulder Injury,In-Clinic,Chennai,UPI,60,0,,1504,0
+SES0601,PT0174,2024-12-24,Tuesday,10,Dr. Kavitha Reddy,6,Shoulder Injury,Home Visit,Hyderabad,Insurance,60,0,,1544,0
+SES1047,PT0221,2024-12-24,Tuesday,11,Dr. Meena Iyer,11,Fracture Recovery,Home Visit,Mumbai,UPI,0,1,Patient Emergency,0,2039
+SES0350,PT0107,2024-12-24,Tuesday,18,Dr. Suresh Pillai,15,Arthritis,In-Clinic,Hyderabad,UPI,60,0,,1171,0
+SES0493,PT0184,2024-12-24,Tuesday,16,Dr. Kavitha Reddy,6,Post-Stroke Recovery,In-Clinic,Mumbai,UPI,0,1,Patient Emergency,0,2186
+SES0754,PT0308,2024-12-25,Wednesday,12,Dr. Priya Sharma,8,Cervical Spondylosis,In-Clinic,Hyderabad,Cash,60,0,,1202,0
+SES0573,PT0313,2024-12-25,Wednesday,9,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Pune,Cash,0,1,Doctor Unavailable,0,1840
+SES0901,PT0296,2024-12-25,Wednesday,17,Dr. Arjun Nair,3,Arthritis,In-Clinic,Chennai,Insurance,0,1,Last-Minute Cancel,0,1231
+SES0843,PT0307,2024-12-25,Wednesday,11,Dr. Priya Sharma,8,Post-Stroke Recovery,Teleconsultation,Pune,Insurance,45,0,,2120,0
+SES0221,PT0125,2024-12-26,Thursday,11,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Chennai,Cash,60,0,,1604,0
+SES0795,PT0324,2024-12-26,Thursday,13,Dr. Kavitha Reddy,6,Shoulder Injury,In-Clinic,Bangalore,UPI,45,0,,1476,0
+SES0374,PT0262,2024-12-26,Thursday,12,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Pune,Cash,45,0,,2713,0
+SES0772,PT0220,2024-12-26,Thursday,13,Dr. Rohan Verma,2,Cervical Spondylosis,Home Visit,Pune,UPI,30,0,,1499,0
+SES0800,PT0352,2024-12-26,Thursday,15,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Pune,Cash,45,0,,1074,0
+SES1016,PT0313,2024-12-27,Friday,17,Dr. Suresh Pillai,15,Lower Back Pain,In-Clinic,Chennai,UPI,30,0,,1163,0
+SES1191,PT0118,2024-12-27,Friday,10,Dr. Meena Iyer,11,Sports Injury,Home Visit,Bangalore,Cash,60,0,,2054,0
+SES0180,PT0294,2024-12-27,Friday,10,Dr. Kavitha Reddy,6,Arthritis,In-Clinic,Mumbai,Insurance,0,1,Rescheduled,0,1279
+SES0904,PT0191,2024-12-27,Friday,10,Dr. Suresh Pillai,15,Shoulder Injury,In-Clinic,Hyderabad,UPI,60,0,,1394,0
+SES0933,PT0064,2024-12-27,Friday,13,Dr. Meena Iyer,11,Cervical Spondylosis,In-Clinic,Chennai,Insurance,45,0,,1081,0
+SES0272,PT0217,2024-12-27,Friday,13,Dr. Rohan Verma,2,Sports Injury,Home Visit,Hyderabad,Cash,45,0,,2116,0
+SES0661,PT0135,2024-12-27,Friday,17,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Teleconsultation,Pune,Card,0,1,Patient Emergency,0,1972
+SES0425,PT0347,2024-12-27,Friday,11,Dr. Priya Sharma,8,Fracture Recovery,In-Clinic,Pune,UPI,60,0,,1746,0
+SES0369,PT0154,2024-12-27,Friday,14,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Chennai,Insurance,60,0,,1466,0
+SES0285,PT0212,2024-12-27,Friday,18,Dr. Arjun Nair,3,Sports Injury,In-Clinic,Chennai,Card,60,0,,1889,0
+SES1116,PT0238,2024-12-28,Saturday,11,Dr. Rohan Verma,2,Arthritis,Home Visit,Hyderabad,Card,45,0,,1564,0
+SES0536,PT0001,2024-12-28,Saturday,14,Dr. Meena Iyer,11,Lower Back Pain,In-Clinic,Mumbai,Cash,45,0,,1106,0
+SES0723,PT0126,2024-12-28,Saturday,17,Dr. Suresh Pillai,15,Shoulder Injury,Teleconsultation,Pune,UPI,60,0,,1100,0
+SES0421,PT0378,2024-12-28,Saturday,10,Dr. Meena Iyer,11,Arthritis,In-Clinic,Mumbai,UPI,60,0,,1244,0
+SES0809,PT0324,2024-12-28,Saturday,15,Dr. Suresh Pillai,15,Post-Stroke Recovery,In-Clinic,Bangalore,UPI,45,0,,2264,0
+SES0550,PT0120,2024-12-28,Saturday,13,Dr. Rohan Verma,2,Sports Injury,In-Clinic,Chennai,Card,0,1,Patient Emergency,0,1933
+SES0671,PT0134,2024-12-28,Saturday,13,Dr. Arjun Nair,3,Shoulder Injury,In-Clinic,Hyderabad,UPI,0,1,Doctor Unavailable,0,1271
+SES0769,PT0098,2024-12-28,Saturday,14,Dr. Meena Iyer,11,Sports Injury,Home Visit,Bangalore,Insurance,0,1,Patient Emergency,0,2273
+SES0524,PT0073,2024-12-28,Saturday,16,Dr. Priya Sharma,8,Post-Stroke Recovery,In-Clinic,Bangalore,Cash,45,0,,2055,0
+SES1036,PT0032,2024-12-30,Monday,19,Dr. Kavitha Reddy,6,Fracture Recovery,In-Clinic,Pune,UPI,60,0,,1445,0
+SES0333,PT0336,2024-12-30,Monday,18,Dr. Meena Iyer,11,Sports Injury,Home Visit,Bangalore,Insurance,60,0,,1969,0
+SES0279,PT0284,2024-12-30,Monday,16,Dr. Meena Iyer,11,Arthritis,Teleconsultation,Mumbai,UPI,60,0,,1061,0
+SES0760,PT0223,2024-12-30,Monday,10,Dr. Meena Iyer,11,Shoulder Injury,Teleconsultation,Chennai,Card,60,0,,1302,0
+SES0750,PT0305,2024-12-30,Monday,10,Dr. Kavitha Reddy,6,Cervical Spondylosis,In-Clinic,Mumbai,UPI,60,0,,1033,0
+SES0628,PT0143,2024-12-30,Monday,16,Dr. Rohan Verma,2,Knee Rehabilitation,In-Clinic,Hyderabad,Cash,60,0,,1577,0
+SES0712,PT0076,2024-12-30,Monday,13,Dr. Kavitha Reddy,6,Post-Stroke Recovery,Home Visit,Mumbai,UPI,60,0,,2296,0
+SES1023,PT0228,2024-12-30,Monday,12,Dr. Arjun Nair,3,Fracture Recovery,Home Visit,Pune,Insurance,0,1,Patient Emergency,0,1821
+SES1048,PT0124,2024-12-30,Monday,12,Dr. Rohan Verma,2,Arthritis,In-Clinic,Chennai,Cash,0,1,Rescheduled,0,1324
+SES0365,PT0235,2024-12-31,Tuesday,12,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Pune,Insurance,60,0,,2000,0
+SES0856,PT0267,2024-12-31,Tuesday,17,Dr. Meena Iyer,11,Fracture Recovery,In-Clinic,Hyderabad,UPI,60,0,,1538,0
+SES0162,PT0204,2024-12-31,Tuesday,15,Dr. Rohan Verma,2,Shoulder Injury,Home Visit,Bangalore,UPI,60,0,,1792,0
+SES0701,PT0191,2024-12-31,Tuesday,16,Dr. Rohan Verma,2,Cervical Spondylosis,In-Clinic,Bangalore,UPI,0,1,No Show,0,1023
+SES0825,PT0055,2024-12-31,Tuesday,9,Dr. Arjun Nair,3,Post-Stroke Recovery,In-Clinic,Mumbai,Card,45,0,,2124,0
+SES1096,PT0016,2024-12-31,Tuesday,18,Dr. Suresh Pillai,15,Sports Injury,In-Clinic,Chennai,UPI,60,0,,1848,0
