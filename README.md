@@ -109,7 +109,7 @@ jupyter notebook VitaCure_EDA_Analysis.ipynb
 
 ## 🔗 Related Project
 
-🤖 **Phase 2 — No-Show Prediction & SQL Analysis (Streamlit App)**  
+🤖 **No-Show Prediction & SQL Analysis (Streamlit App)**  
 [https://github.com/ashanthan03/vitacure-noshow-prediction](https://github.com/ashanthan03/vitacure-noshow-prediction)  
 Live App: [https://vitacure-noshow-prediction.streamlit.app/](https://vitacure-noshow-prediction.streamlit.app/)
 
